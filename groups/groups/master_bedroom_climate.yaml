@@ -1,0 +1,5 @@
+master_bedroom_climate:
+  name: Master Bedroom Climate
+  icon: mdi:thermometer-lines
+  entities:
+    - climate.bedroom

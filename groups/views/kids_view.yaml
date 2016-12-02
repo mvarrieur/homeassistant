@@ -1,0 +1,5 @@
+kids_view:
+  name: Kids
+  view: yes
+  entities:
+    - group.kids_media

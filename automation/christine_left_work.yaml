@@ -1,0 +1,12 @@
+alias: "Christine left work"
+trigger:
+  - platform: numeric_state
+    entity_id: proximity.christine_work
+    above: 1
+condition:
+  condition: template
+  value_template: '{{ states.proximity.christine_work.attributes.dir_of_travel == "away" }}'
+action:
+  service: notify.pushover
+  data:
+    message: 'Christine left work'

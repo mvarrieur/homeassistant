@@ -1,0 +1,5 @@
+living_room_view:
+  name: Living Room
+  view: yes
+  entities:
+    - light.ge_living_room_fan_speed_5_0

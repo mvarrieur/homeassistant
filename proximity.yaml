@@ -1,0 +1,23 @@
+home:
+  ignored_zones:
+    - christine_work
+    - mike_work
+  devices:
+    - device_tracker.mike_mike
+    - device_tracker.christine_christine
+  tolerance: 200
+  unit_of_measurement: mi
+christine_work:
+  ignored_zones:
+    - home
+  devices:
+    - device_tracker.christine_christine
+  tolerance: 200
+  unit_of_measurement: mi
+mike_work:
+  ignored_zones:
+    - home
+  devices:
+    - device_tracker.mike_mike
+  tolerance: 200
+  unit_of_measurement: mi

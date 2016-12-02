@@ -1,0 +1,18 @@
+broker: !secret mqtt_host
+port: 8883
+client_id: home-assistant-1
+keepalive: 60
+username: !secret mqtt_username
+password: !secret mqtt_password
+#certificate: /home/paulus/dev/addtrustexternalcaroot.crt
+protocol: 3.1
+birth_message:
+  topic: 'hass/status'
+  payload: 'online'
+  qos: 1
+  retain: true
+will_message:
+  topic: 'hass/status'
+  payload: 'offline'
+  qos: 1
+  retain: true

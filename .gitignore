@@ -1,0 +1,14 @@
+deps/
+.uuid
+secrets.yaml
+zwcfg_*.xml
+zwscene.xml
+ecobee.conf
+OZW_Log.txt
+home-assistant.log
+plex.conf
+home-assistant*.db
+home-assistant_v2.db-journal
+*.sqlite
+*.db
+known_devices.yaml

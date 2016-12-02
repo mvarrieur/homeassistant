@@ -1,0 +1,17 @@
+alias: "Porch lights on at 6:15 if home"
+trigger:
+  platform: time
+  after: "06:15:00"
+condition:
+  condition: and
+  conditions:
+  - condition: state
+    entity_id: group.all_devices
+    state: 'home'
+  - condition: sun
+    before: sunrise
+action:
+  service: light.turn_on
+  entity_id: group.front_porch_lights
+  data:
+    brightness: 255

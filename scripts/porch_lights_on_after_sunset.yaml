@@ -1,0 +1,9 @@
+porch_lights_on_after_sunset:
+  sequence:
+    - service: light.turn_on
+      entity_id: group.front_porch_lights
+      data:
+        brightness: 255
+    - service: notify.pushover
+      data:
+        message: 'Front porch lights turned on'

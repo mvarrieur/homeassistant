@@ -1,0 +1,6 @@
+master_bedroom_media:
+  name: Master Bedroom Media
+  icon: mdi:presentation-play
+  entities:
+    - media_player.bedroom
+    - media_player.roku_18d29v063627

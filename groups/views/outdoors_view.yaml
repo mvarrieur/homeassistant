@@ -1,0 +1,5 @@
+outdoors_view:
+  name: Outdoors
+  view: yes
+  entities:
+    - group.front_porch_lights

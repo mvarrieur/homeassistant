@@ -1,0 +1,5 @@
+kids_media:
+  name: Kids Media
+  icon: mdi:presentation-play
+  entities:
+    - media_player.fire_hd_7

@@ -1,0 +1,14 @@
+alias: "Lights off when media done"
+trigger:
+  - platform: state
+    entity_id: media_player.bedroom
+    to: 'idle'
+  - platform: state
+    entity_id: media_player.bedroom
+    to: 'off'
+  - platform: state
+    entity_id: media_player.bedroom
+    to: 'stopped'
+action:
+  service: light.turn_off
+  entity_id: group.bedroom_lights_rgb

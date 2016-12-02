@@ -1,0 +1,10 @@
+alias: "Arriving Home"
+trigger:
+  - platform: state
+    entity_id: group.all_devices
+    from: 'not_home'
+    to: 'home'
+action:
+  service: notify.pushover
+  data:
+    message: 'Welcome home!'

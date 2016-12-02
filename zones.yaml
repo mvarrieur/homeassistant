@@ -1,0 +1,17 @@
+- name: Home
+  latitude: !secret home_latitude
+  longitude: !secret home_longitude
+  radius: 400
+  icon: mdi:home
+
+- name: christine_work
+  latitude: !secret christine_work_latitude
+  longitude: !secret christine_work_longitude
+  radius: 500
+  icon: mdi:desktop-mac
+
+- name: mike_work
+  latitude: !secret mike_work_latitude
+  longitude: !secret mike_work_longitude
+  radius: 500
+  icon: mdi:desktop-mac
