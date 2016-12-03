@@ -5,6 +5,7 @@ trigger:
     offset: "-00:15:00"
   - platform: numeric_state
     entity_id: proximity.home
+    value_template: '{{ states.proximity.home.state | float }}'
     below: 3
   - platform: state
     entity_id: group.all_devices
@@ -26,4 +27,5 @@ condition:
           entity_id: group.all_devices
           state: 'home'
 action:
-  service: script.porch_lights_on_after_sunset
+  service: script.turn_on
+  entity_id: script.porch_lights_on_after_sunset
