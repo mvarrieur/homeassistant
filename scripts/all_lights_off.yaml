@@ -1,0 +1,8 @@
+all_lights_off:
+  alias: 'Turn off lights & send notification'
+  sequence:
+    - service: light.turn_off
+      entity_id: group.all_lights
+    - service: notify.pushover
+      data:
+        message: 'All lights turned off'

@@ -1,4 +1,5 @@
 porch_lights_on_after_sunset:
+  alias: 'Turn on porch lights & send notification'
   sequence:
     - service: light.turn_on
       entity_id: group.front_porch_lights

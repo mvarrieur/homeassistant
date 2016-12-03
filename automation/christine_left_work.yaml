@@ -1,11 +1,9 @@
 alias: "Christine left work"
 trigger:
-  - platform: numeric_state
-    entity_id: proximity.christine_work
-    above: 1
-condition:
-  condition: template
-  value_template: '{{ states.proximity.christine_work.attributes.dir_of_travel == "away" }}'
+  platform: state
+  entity_id: device_tracker.christine_christine
+  from: 'Work'
+  to: 'not_home'
 action:
   service: notify.pushover
   data:

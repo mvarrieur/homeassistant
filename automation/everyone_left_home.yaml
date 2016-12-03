@@ -5,6 +5,4 @@ trigger:
     from: 'home'
     to: 'not_home'
 action:
-  service: notify.pushover
-  data:
-    message: 'Everyone left the house'
+  service: script.all_lights_off

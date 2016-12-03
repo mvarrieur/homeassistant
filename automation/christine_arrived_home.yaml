@@ -1,0 +1,14 @@
+alias: "Mike Arriving Home"
+trigger:
+  - platform: state
+    entity_id: device_tracker.christine_christine
+    from: 'not_home'
+    to: 'home'
+  - platform: state
+    entity_id: device_tracker.christine_christine
+    from: 'Work'
+    to: 'home'
+action:
+  service: notify.pushover
+  data:
+    message: 'Christine is home!'
