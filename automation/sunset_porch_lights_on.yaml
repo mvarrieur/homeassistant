@@ -22,7 +22,7 @@ condition:
       conditions:
         # Either while home or heading home
         - condition: template
-          value_template: '{{ states.proximity.home.attributes.dir_of_travel == "towards" and states.proximity.home.state <= 3 }}'
+          value_template: '{{ states.proximity.home.attributes.dir_of_travel == "towards" and (states.proximity.home.state | float) <= 3 }}'
         - condition: state
           entity_id: group.all_devices
           state: 'home'

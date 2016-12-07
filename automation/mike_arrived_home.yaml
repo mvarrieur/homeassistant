@@ -11,4 +11,4 @@ trigger:
 action:
   service: notify.pushover
   data:
-    message: 'Welcome home!'
+    message: 'Welcome home, Mike!'

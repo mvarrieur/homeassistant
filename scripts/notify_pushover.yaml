@@ -1,0 +1,9 @@
+notify_pushover:
+  alias: 'Notify Pushover'
+  sequence:
+    - condition: state
+      entity_id: input_boolean.pushover_notifications
+      state: 'on'
+    - service: notify.pushover
+      data:
+        message: 'All lights turned off'

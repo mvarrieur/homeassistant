@@ -1,14 +1,19 @@
 media_player.roku_18d29v063627:
   friendly_name: Master Bedroom Roku
+
 light.ge_living_room_fan_speed_5_0:
   friendly_name: Living Room Fan
   icon: mdi:fan
+
 light.linear_porch_light_right_level_4_0:
   friendly_name: Front Porch Light Right
 light.linear_porch_light_left_level_2_0:
   friendly_name: Front Porch Light Left
 light.linear_porch_light_middle_level_3_0:
   friendly_name: Front Porch Light Middle
+light.unknown_id000c_unknown_type4447_id3034_level_6_0:
+  friendly_name: Living Room Light
+
 zone.christine_work:
   friendly_name: Work
 zone.mike_work:
