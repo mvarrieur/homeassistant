@@ -9,6 +9,6 @@ trigger:
     from: 'Work'
     to: 'home'
 action:
-  service: notify.pushover
+  service: script.notify_pushover
   data:
     message: 'Christine is home!'

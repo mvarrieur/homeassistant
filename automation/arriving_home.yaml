@@ -5,6 +5,6 @@ trigger:
     from: 'not_home'
     to: 'home'
 action:
-  service: notify.pushover
+  service: script.notify_pushover
   data:
     message: 'Welcome home!'

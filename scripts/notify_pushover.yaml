@@ -5,5 +5,6 @@ notify_pushover:
       entity_id: input_boolean.pushover_notifications
       state: 'on'
     - service: notify.pushover
-      data:
-        message: 'All lights turned off'
+      data_template:
+        title: "{{ title }}"
+        message: "{{ message }}"
