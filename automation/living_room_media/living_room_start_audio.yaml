@@ -1,0 +1,12 @@
+alias: "Family Room - Playing Audio"
+trigger:
+  - platform: state
+    entity_id: media_player.living_room
+    from: 'off'
+    to: 'playing'
+  - platform: state
+    entity_id: media_player.living_room
+    from: 'paused'
+    to: 'playing'
+action:
+  service: script.family_room_audio_start

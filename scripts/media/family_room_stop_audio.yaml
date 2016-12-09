@@ -1,0 +1,8 @@
+family_room_audio_stop:
+  alias: 'Family Room - Stop Audio'
+  sequence:
+    - service: remote.send_command
+      data:
+        command: 'InputCbl/Sat'
+        device: 40222623
+        entity_id: remote.living_room

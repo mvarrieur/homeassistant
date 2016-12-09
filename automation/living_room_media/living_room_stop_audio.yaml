@@ -1,0 +1,12 @@
+alias: "Family Room - Audio End"
+trigger:
+  - platform: state
+    entity_id: media_player.living_room
+    from: 'playing'
+    to: 'off'
+  - platform: state
+    entity_id: media_player.living_room
+    from: 'playing'
+    to: 'paused'
+action:
+  service: script.family_room_audio_stop

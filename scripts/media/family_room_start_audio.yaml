@@ -1,0 +1,8 @@
+family_room_audio_start:
+  alias: 'Family Room - Start Audio'
+  sequence:
+    - service: remote.send_command
+      data:
+        command: 'InputAux'
+        device: 40222623
+        entity_id: remote.living_room
