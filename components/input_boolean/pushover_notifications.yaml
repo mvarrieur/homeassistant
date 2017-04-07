@@ -1,4 +1,4 @@
 pushover_notifications:
   name: Pushover Notifications
-  initial: off
+  initial: on
   icon: mdi:email

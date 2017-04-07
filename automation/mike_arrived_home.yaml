@@ -9,6 +9,10 @@ trigger:
     from: 'Work'
     to: 'home'
 action:
-  service: script.notify_pushover
-  data:
-    message: 'Welcome home, Mike!'
+  - service: script.notify_pushover
+    data:
+      message: 'Welcome home, Mike!'
+  - service: tts.google_say
+    data:
+      entity_id: media_player.kitchen_home
+      message: 'Mike is home'

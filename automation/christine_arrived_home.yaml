@@ -1,4 +1,4 @@
-alias: "Mike Arriving Home"
+alias: "Christine Arriving Home"
 trigger:
   - platform: state
     entity_id: device_tracker.christine_christine
@@ -9,6 +9,10 @@ trigger:
     from: 'Work'
     to: 'home'
 action:
-  service: script.notify_pushover
-  data:
-    message: 'Christine is home!'
+  - service: script.notify_pushover
+    data:
+      message: 'Christine is home!'
+  - service: tts.google_say
+    data:
+      entity_id: media_player.kitchen_home
+      message: "Christine is home"
