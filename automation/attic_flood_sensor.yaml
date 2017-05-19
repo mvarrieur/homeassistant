@@ -1,0 +1,14 @@
+alias: "Attic Flood Detected"
+trigger:
+  - platform: state
+    entity_id: binary_sensor.__sensor_13_0
+    from: 'off'
+    to: 'on'
+action:
+  - service: script.notify_pushover
+    data:
+      message: 'WARNING: Attic flood sensor tripped'
+  - service: tts.google_say
+    data:
+      entity_id: media_player.kitchen_home
+      message: 'Warning, Attic flood sensor tripped'
