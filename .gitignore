@@ -1,7 +1,7 @@
 deps/
 .uuid
 secrets.yaml
-zwcfg_*.xml
+# zwcfg_*.xml
 zwscene.xml
 ecobee.conf
 OZW_Log.txt
