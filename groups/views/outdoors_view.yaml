@@ -3,3 +3,4 @@ outdoors_view:
   view: yes
   entities:
     - group.front_porch_lights
+    - switch.__switch_19_0

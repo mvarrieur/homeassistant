@@ -1,0 +1,15 @@
+alias: "Porch lights on if front door opens at night"
+trigger:
+  - platform: state
+    entity_id: binary_sensor.__sensor_17_0
+    from: 'off'
+    to: 'on'
+condition:
+  condition: or
+  conditions:
+  - condition: time
+    after: "23:15:00"
+  - condition: sun
+    before: sunrise
+action:
+  service: script.porch_lights_on_ten_minutes

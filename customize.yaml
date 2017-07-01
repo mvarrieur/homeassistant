@@ -26,3 +26,8 @@ binary_sensor.__sensor_12_0:
   friendly_name: Basement Water Sensor
 binary_sensor.__sensor_13_0:
   friendly_name: Water Sensor 2
+binary_sensor.__sensor_17_0:
+  friendly_name: Front Door Sensor
+
+switch.__switch_19_0:
+  friendly_name: Garage Switch

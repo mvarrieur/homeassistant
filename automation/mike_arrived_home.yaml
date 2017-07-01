@@ -8,10 +8,11 @@ trigger:
     entity_id: device_tracker.mike_mike
     from: 'Work'
     to: 'home'
+condition:
+  - condition: state
+    entity_id: device_tracker.christine_christine
+    state: 'home'
 action:
-  - service: script.notify_pushover
-    data:
-      message: 'Welcome home, Mike!'
   - service: tts.google_say
     data:
       entity_id: media_player.kitchen_home

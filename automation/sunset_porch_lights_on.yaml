@@ -15,9 +15,13 @@ condition:
   condition: and
   conditions:
     # Only after sunset
-    - condition: sun
-      after: sunset
-      after_offset: '-0:15:00'
+    - condition: or
+      conditions:
+        - condition: sun
+          after: sunset
+          after_offset: '-0:15:00'
+        - condition: sun
+          before: sunrise
     - condition: or
       conditions:
         # Either while home or heading home

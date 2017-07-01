@@ -1,0 +1,11 @@
+porch_lights_on_ten_minutes:
+  alias: 'Turn on porch lights for ten minutes'
+  sequence:
+    - service: light.turn_on
+      entity_id: group.front_porch_lights
+      data:
+        brightness: 255
+    - delay:
+        minutes: 10
+    - service: light.turn_off
+      entity_id: group.front_porch_lights
