@@ -1,0 +1,8 @@
+alias: "Backyard Audio Start"
+trigger:
+  platform: state
+  entity_id: media_player.backyard
+  to: 'off'
+action:
+  service: switch.turn_off
+  entity_id: switch.garage_outlet_1_switch

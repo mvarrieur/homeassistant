@@ -1,7 +1,7 @@
 alias: "Attic Flood Detected"
 trigger:
   - platform: state
-    entity_id: binary_sensor.__sensor_13_0
+    entity_id: binary_sensor.attic_ac_water_sensor
     from: 'off'
     to: 'on'
 action:

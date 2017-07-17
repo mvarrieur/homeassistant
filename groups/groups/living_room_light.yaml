@@ -1,0 +1,5 @@
+living_room_overhead:
+  name: Living Room Overhead
+  entities:
+    - fan.living_room_fan_level
+    - light.living_room_ceiling_light_level

@@ -1,7 +1,7 @@
 alias: "Porch lights on if front door opens at night"
 trigger:
   - platform: state
-    entity_id: binary_sensor.__sensor_17_0
+    entity_id: binary_sensor.front_door_sensor
     from: 'off'
     to: 'on'
 condition:

@@ -1,7 +1,7 @@
 alias: "Basement Flood Detected"
 trigger:
   - platform: state
-    entity_id: binary_sensor.__sensor_12_0
+    entity_id: binary_sensor.basement_water_sensor
     from: 'off'
     to: 'on'
 action:
