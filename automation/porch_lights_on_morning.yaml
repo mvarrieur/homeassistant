@@ -1,7 +1,7 @@
 alias: "Porch lights on at 6:15 if home"
 trigger:
   platform: time
-  after: "06:15:00"
+  at: "06:15:00"
 condition:
   condition: and
   conditions:

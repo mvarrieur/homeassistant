@@ -31,17 +31,18 @@ tts:
     time_memory: 57600
 
 frontend:
+config:
 updater:
 discovery:
 conversation:
 history:
 logbook:
 sun:
-zwave:
-  usb_path: /dev/ttyACM1
-  autoheal: false
-  #config_path: /home/mike/open-zwave-control-panel/
-  new_entity_ids: true
+# zwave:
+#   usb_path: /dev/ttyACM0
+#   autoheal: false
+#   #config_path: /home/mike/open-zwave-control-panel/
+#   new_entity_ids: true
 
 sensor: !include_dir_merge_list sensors/
 mqtt: !include mqtt.yaml

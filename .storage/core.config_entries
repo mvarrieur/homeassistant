@@ -1,0 +1,38 @@
+{
+    "data": {
+        "entries": [
+            {
+                "connection_class": "unknown",
+                "data": {},
+                "domain": "cast",
+                "entry_id": "b624f583ac504f42881b95b841d3efea",
+                "source": "discovery",
+                "title": "Google Cast",
+                "version": 1
+            },
+            {
+                "connection_class": "local_push",
+                "data": {},
+                "domain": "mqtt",
+                "entry_id": "c90887c899f34163bbf330dc1ca38be4",
+                "source": "import",
+                "title": "configuration.yaml",
+                "version": 1
+            },
+            {
+                "connection_class": "local_push",
+                "data": {
+                    "network_key": "0x20, 0xFC, 0x42, 0x34, 0x8B, 0x57, 0xA6, 0xED, 0xB8, 0x42, 0xE8, 0x25, 0xBE, 0x66, 0xF9, 0x77",
+                    "usb_path": "/dev/ttyACM0"
+                },
+                "domain": "zwave",
+                "entry_id": "5e6510705770490b8c22715779985c04",
+                "source": "user",
+                "title": "Z-Wave",
+                "version": 1
+            }
+        ]
+    },
+    "key": "core.config_entries",
+    "version": 1
+}

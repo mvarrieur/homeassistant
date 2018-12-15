@@ -1,7 +1,7 @@
 alias: "Porch lights off at 11:15"
 trigger:
   platform: time
-  after: "23:15:00"
+  at: "23:15:00"
 action:
   service: light.turn_off
   entity_id: group.front_porch_lights

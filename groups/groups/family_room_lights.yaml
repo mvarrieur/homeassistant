@@ -1,0 +1,5 @@
+family_room_lights:
+  name: Family Room Lights
+  entities:
+    - light.homeseer_hswd100_wall_dimmer_level_2
+    - light.living_room_ceiling_light_level

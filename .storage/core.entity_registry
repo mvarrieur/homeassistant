@@ -1,0 +1,386 @@
+{
+    "data": {
+        "entities": [
+            {
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "06f1469cdabc409ea9478fc4930b9a16",
+                "disabled_by": null,
+                "entity_id": "light.porch_light_right_level",
+                "name": "porch light na2",
+                "platform": "zwave",
+                "unique_id": "4-72057594109853697"
+            },
+            {
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "1ea4ac5c4e324b178dd5c48cae5e5cd7",
+                "disabled_by": null,
+                "entity_id": "fan.living_room_fan_level",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "5-72057594126630913"
+            },
+            {
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "87359d72b0824adb838c727274d0f711",
+                "disabled_by": null,
+                "entity_id": "light.living_room_ceiling_light_level",
+                "name": "Family Room Front Lights",
+                "platform": "zwave",
+                "unique_id": "6-72057594143408129"
+            },
+            {
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "bb8ae1db929947239fc7ec3d96851d1f",
+                "disabled_by": null,
+                "entity_id": "binary_sensor.basement_water_sensor",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "12-72057594244235264"
+            },
+            {
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "ffea2d0674f54c8695a83357b3da7ef2",
+                "disabled_by": null,
+                "entity_id": "binary_sensor.attic_ac_water_sensor",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "13-72057594261012480"
+            },
+            {
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "c7ec7c1539c64e19a1a3bb0ced6209f7",
+                "disabled_by": null,
+                "entity_id": "binary_sensor.front_door_sensor",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "17-72057594328121344"
+            },
+            {
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "c7ec7c1539c64e19a1a3bb0ced6209f7",
+                "disabled_by": null,
+                "entity_id": "sensor.front_door_alarm_type",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "17-72057594329186305"
+            },
+            {
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "c7ec7c1539c64e19a1a3bb0ced6209f7",
+                "disabled_by": null,
+                "entity_id": "sensor.front_door_alarm_level",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "17-72057594329186321"
+            },
+            {
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "c7ec7c1539c64e19a1a3bb0ced6209f7",
+                "disabled_by": null,
+                "entity_id": "sensor.front_door_sourcenodeid",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "17-72057594329186337"
+            },
+            {
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "c7ec7c1539c64e19a1a3bb0ced6209f7",
+                "disabled_by": null,
+                "entity_id": "sensor.front_door_access_control",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "17-72057594329186449"
+            },
+            {
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "c7ec7c1539c64e19a1a3bb0ced6209f7",
+                "disabled_by": null,
+                "entity_id": "sensor.front_door_burglar",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "17-72057594329186465"
+            },
+            {
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "74aa04dc72fc4576b2bf9fb98387572f",
+                "disabled_by": null,
+                "entity_id": "switch.garage_outlet_1_switch",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "19-72057594361495552"
+            },
+            {
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "5c06652fb73f42aabaa1a9a9daf01c6e",
+                "disabled_by": null,
+                "entity_id": "light.porch_light_middle_level",
+                "name": "Porch Light NA",
+                "platform": "zwave",
+                "unique_id": "20-72057594378289153"
+            },
+            {
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "bcfd8175a0074c70a8828918aabb2919",
+                "disabled_by": null,
+                "entity_id": "light.porch_light_left_level",
+                "name": "Front Porch Light Middle",
+                "platform": "zwave",
+                "unique_id": "21-72057594395066369"
+            },
+            {
+                "config_entry_id": "b624f583ac504f42881b95b841d3efea",
+                "device_id": "c8b3a650906843028c4827e51676a933",
+                "disabled_by": null,
+                "entity_id": "media_player.backyard_speaker",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "5a9e6043-f391-55cc-50da-9b5df7ac9e6c"
+            },
+            {
+                "config_entry_id": "b624f583ac504f42881b95b841d3efea",
+                "device_id": "bcbd2aa282b649ec89c2a293b68e8802",
+                "disabled_by": null,
+                "entity_id": "media_player.office_tv",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "47f9de15-f8cc-3bb6-08a3-ba163aa7b9bb"
+            },
+            {
+                "config_entry_id": "b624f583ac504f42881b95b841d3efea",
+                "device_id": "997e0864e43b435b854e834d413420b3",
+                "disabled_by": null,
+                "entity_id": "media_player.living_room_speaker",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "ea7e6d17-3227-7c83-5164-a11065ba1424"
+            },
+            {
+                "config_entry_id": "b624f583ac504f42881b95b841d3efea",
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "media_player.outside",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "f876c4a0-0e83-4ba2-8f0d-93dc80c856e5"
+            },
+            {
+                "config_entry_id": "b624f583ac504f42881b95b841d3efea",
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "media_player.living_room_and_kitchen",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "621bccec-31c9-46bf-bd9c-81dd8741d1e5"
+            },
+            {
+                "config_entry_id": "b624f583ac504f42881b95b841d3efea",
+                "device_id": "fd1853911c5944f5ae293a52c509e463",
+                "disabled_by": null,
+                "entity_id": "media_player.master_bedroom_tv",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "8d25b8ee-45b1-24b1-c75d-7db6b41581f1"
+            },
+            {
+                "config_entry_id": "b624f583ac504f42881b95b841d3efea",
+                "device_id": "e377be85d0d6492d9dca31aef506a7bf",
+                "disabled_by": null,
+                "entity_id": "media_player.family_room",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "cb80ab82-0080-7cbd-c49a-98e8ac223aff"
+            },
+            {
+                "config_entry_id": "b624f583ac504f42881b95b841d3efea",
+                "device_id": "3caae0afaa244bf08f6b0bd94039377a",
+                "disabled_by": null,
+                "entity_id": "media_player.kitchen_home",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "b6d6caab-bc18-87fa-ee26-91c14c9fdef6"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "zwave.aeotec_zw090_zstick_gen5_us",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "node-1"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "zwave.porch_light_right",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "node-4"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "zwave.living_room_fan",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "node-5"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "zwave.living_room_ceiling_light",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "node-6"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "zwave.basement_water",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "node-12"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "zwave.attic_ac_water",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "node-13"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "zwave.front_door",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "node-17"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "zwave.garage_outlet_1",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "node-19"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "zwave.porch_light_middle",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "node-20"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "zwave.porch_light_left",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "node-21"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": "90358dc58ef14c14a06f3bec863dacc3",
+                "disabled_by": null,
+                "entity_id": "climate.2gig_technologies_unknown_type0000_id0000_cooling_1",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "18-72057594345209890"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": "90358dc58ef14c14a06f3bec863dacc3",
+                "disabled_by": null,
+                "entity_id": "climate.2gig_technologies_unknown_type0000_id0000_unused_3",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "18-72057594345209906"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "zwave.2gig_technologies_unknown_type0000_id0000",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "node-18"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": "90358dc58ef14c14a06f3bec863dacc3",
+                "disabled_by": null,
+                "entity_id": "sensor.2gig_technologies_unknown_type0000_id0000_temperature",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "18-72057594344914962"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": "90358dc58ef14c14a06f3bec863dacc3",
+                "disabled_by": null,
+                "entity_id": "sensor.2gig_technologies_unknown_type0000_id0000_indicator",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "18-72057594346323969"
+            },
+            {
+                "config_entry_id": "b624f583ac504f42881b95b841d3efea",
+                "device_id": "903af7dae5224fd78aad3e6ace5f24ee",
+                "disabled_by": null,
+                "entity_id": "media_player.googlehome6322",
+                "name": null,
+                "platform": "cast",
+                "unique_id": "fbce3db7-4e86-4760-c4c5-d2544c916124"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "zwave.homeseer_hswd100_wall_dimmer",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "node-24"
+            },
+            {
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "a9870d9d760e4a7facc178bf65667bf1",
+                "disabled_by": null,
+                "entity_id": "light.homeseer_hswd100_wall_dimmer_level",
+                "name": "Office Light",
+                "platform": "zwave",
+                "unique_id": "24-72057594445398017"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "zwave.homeseer_hswd100_wall_dimmer_2",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "node-25"
+            },
+            {
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "c1067939dbae40658200b202188b6cf7",
+                "disabled_by": null,
+                "entity_id": "light.homeseer_hswd100_wall_dimmer_level_2",
+                "name": "Family Room Back Lights",
+                "platform": "zwave",
+                "unique_id": "25-72057594462175233"
+            }
+        ]
+    },
+    "key": "core.entity_registry",
+    "version": 1
+}
