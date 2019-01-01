@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "last_seen": "2019-01-01T23:09:19.003189+00:00",
+            "last_seen": "2019-01-01T23:24:20.001547+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Pushover Notifications",
@@ -18,7 +18,7 @@
             }
         },
         {
-            "last_seen": "2019-01-01T23:09:19.003189+00:00",
+            "last_seen": "2019-01-01T23:24:20.001547+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Family Room Double Tap Off",
@@ -35,7 +35,7 @@
             }
         },
         {
-            "last_seen": "2019-01-01T23:09:19.003189+00:00",
+            "last_seen": "2019-01-01T23:24:20.001547+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Lights off when media done",
@@ -52,7 +52,7 @@
             }
         },
         {
-            "last_seen": "2019-01-01T23:09:19.003189+00:00",
+            "last_seen": "2019-01-01T23:24:20.001547+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Family Room Double Tap On",
@@ -69,7 +69,7 @@
             }
         },
         {
-            "last_seen": "2019-01-01T23:09:19.003189+00:00",
+            "last_seen": "2019-01-01T23:24:20.001547+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Backyard Audio Start",
@@ -86,7 +86,7 @@
             }
         },
         {
-            "last_seen": "2019-01-01T23:09:19.003189+00:00",
+            "last_seen": "2019-01-01T23:24:20.001547+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Porch lights on after sunset",
@@ -103,7 +103,7 @@
             }
         },
         {
-            "last_seen": "2019-01-01T23:09:19.003189+00:00",
+            "last_seen": "2019-01-01T23:24:20.001547+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Porch lights off at 11:15",
@@ -120,7 +120,7 @@
             }
         },
         {
-            "last_seen": "2019-01-01T23:09:19.003189+00:00",
+            "last_seen": "2019-01-01T23:24:20.001547+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Porch lights on at 6:15 if home",
@@ -137,7 +137,7 @@
             }
         },
         {
-            "last_seen": "2019-01-01T23:09:19.003189+00:00",
+            "last_seen": "2019-01-01T23:24:20.001547+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Backyard Audio Start",
@@ -154,7 +154,7 @@
             }
         },
         {
-            "last_seen": "2019-01-01T23:09:19.003189+00:00",
+            "last_seen": "2019-01-01T23:24:20.001547+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Attic Flood Detected",
@@ -171,24 +171,24 @@
             }
         },
         {
-            "last_seen": "2019-01-01T23:09:19.003189+00:00",
+            "last_seen": "2019-01-01T23:24:20.001547+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Christine Arriving Home",
-                    "last_triggered": null
+                    "last_triggered": "2019-01-01T23:13:00.678058+00:00"
                 },
                 "context": {
-                    "id": "f21f7fcf0fe34af08eaca227942b092c",
+                    "id": "204437da74cb45b89445c4dcad0f8835",
                     "user_id": null
                 },
                 "entity_id": "automation.christine_arriving_home",
                 "last_changed": "2018-12-16T21:34:41.000241+00:00",
-                "last_updated": "2018-12-16T21:34:41.000241+00:00",
+                "last_updated": "2019-01-01T23:13:00.678162+00:00",
                 "state": "on"
             }
         },
         {
-            "last_seen": "2019-01-01T23:09:19.003189+00:00",
+            "last_seen": "2019-01-01T23:24:20.001547+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Porch lights on if front door opens at night",
@@ -205,7 +205,7 @@
             }
         },
         {
-            "last_seen": "2019-01-01T23:09:19.003189+00:00",
+            "last_seen": "2019-01-01T23:24:20.001547+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Family Room - Audio End",
@@ -222,7 +222,7 @@
             }
         },
         {
-            "last_seen": "2019-01-01T23:09:19.003189+00:00",
+            "last_seen": "2019-01-01T23:24:20.001547+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Basement Flood Detected",
@@ -239,7 +239,7 @@
             }
         },
         {
-            "last_seen": "2019-01-01T23:09:19.003189+00:00",
+            "last_seen": "2019-01-01T23:24:20.001547+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Porch lights on at sunset",
@@ -256,7 +256,7 @@
             }
         },
         {
-            "last_seen": "2019-01-01T23:09:19.003189+00:00",
+            "last_seen": "2019-01-01T23:24:20.001547+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Master Bedroom Play Lights On",
@@ -273,7 +273,7 @@
             }
         },
         {
-            "last_seen": "2019-01-01T23:09:19.003189+00:00",
+            "last_seen": "2019-01-01T23:24:20.001547+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Family Room - Playing Audio",
@@ -290,7 +290,7 @@
             }
         },
         {
-            "last_seen": "2019-01-01T23:09:19.003189+00:00",
+            "last_seen": "2019-01-01T23:24:20.001547+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Master Bedroom Media Pause Lights",
@@ -307,7 +307,7 @@
             }
         },
         {
-            "last_seen": "2019-01-01T23:09:19.003189+00:00",
+            "last_seen": "2019-01-01T23:24:20.001547+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Everyone left home",
@@ -324,7 +324,7 @@
             }
         },
         {
-            "last_seen": "2019-01-01T23:09:19.003189+00:00",
+            "last_seen": "2019-01-01T23:24:20.001547+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Mike Arriving Home",
@@ -341,7 +341,7 @@
             }
         },
         {
-            "last_seen": "2019-01-01T23:09:19.003189+00:00",
+            "last_seen": "2019-01-01T23:24:20.001547+00:00",
             "state": {
                 "attributes": {
                     "battery": 49,
@@ -364,20 +364,27 @@
             }
         },
         {
-            "last_seen": "2019-01-01T23:09:19.003189+00:00",
+            "last_seen": "2019-01-01T23:24:20.001547+00:00",
             "state": {
                 "attributes": {
+                    "battery": 55,
+                    "course": 204,
                     "friendly_name": "christine",
-                    "source_type": null
+                    "gps_accuracy": 10,
+                    "latitude": 42.027374267578125,
+                    "longitude": -71.16678675643277,
+                    "source_type": "gps",
+                    "tid": "cv",
+                    "velocity": 0
                 },
                 "context": {
-                    "id": "552bee739738492e96173794fe37233c",
+                    "id": "df09970833184312bbabda37c4c655d9",
                     "user_id": null
                 },
                 "entity_id": "device_tracker.christine_christine",
-                "last_changed": "2018-12-16T21:34:29.140444+00:00",
-                "last_updated": "2018-12-16T21:34:29.140444+00:00",
-                "state": "not_home"
+                "last_changed": "2019-01-01T23:13:00.295685+00:00",
+                "last_updated": "2019-01-01T23:17:06.706658+00:00",
+                "state": "home"
             }
         }
     ],
