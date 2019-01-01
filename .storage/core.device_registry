@@ -340,6 +340,96 @@
                 "model": "HS-WD100+ Wall Dimmer",
                 "name": "HomeSeer HS-WD100+ Wall Dimmer",
                 "sw_version": null
+            },
+            {
+                "config_entries": [
+                    "5e6510705770490b8c22715779985c04"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "56dca16e7c8043b2b19c084586105156",
+                "identifiers": [
+                    [
+                        "zwave",
+                        26
+                    ]
+                ],
+                "manufacturer": "Linear",
+                "model": "LB60Z-1 Dimmable LED Light Bulb",
+                "name": "Linear LB60Z-1 Dimmable LED Light Bulb",
+                "sw_version": null
+            },
+            {
+                "config_entries": [
+                    "5e6510705770490b8c22715779985c04"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "3a9bf2a297bc4e9d972c64ed919e5847",
+                "identifiers": [
+                    [
+                        "zwave",
+                        27
+                    ]
+                ],
+                "manufacturer": "Linear",
+                "model": "LB60Z-1 Dimmable LED Light Bulb",
+                "name": "Linear LB60Z-1 Dimmable LED Light Bulb",
+                "sw_version": null
+            },
+            {
+                "config_entries": [
+                    "5e6510705770490b8c22715779985c04"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "aaeda85a22ad45d28f9a03555d53fb82",
+                "identifiers": [
+                    [
+                        "zwave",
+                        28
+                    ]
+                ],
+                "manufacturer": "Linear",
+                "model": "LB60Z-1 Dimmable LED Light Bulb",
+                "name": "Linear LB60Z-1 Dimmable LED Light Bulb",
+                "sw_version": null
+            },
+            {
+                "config_entries": [
+                    "5e6510705770490b8c22715779985c04"
+                ],
+                "connections": [],
+                "hub_device_id": null,
+                "id": "142550e9f2c542868f3d5fb6e54b11e0",
+                "identifiers": [
+                    [
+                        "zwave",
+                        29
+                    ]
+                ],
+                "manufacturer": "HomeSeer",
+                "model": "HS-WD100+ Wall Dimmer",
+                "name": "HomeSeer HS-WD100+ Wall Dimmer",
+                "sw_version": null
+            },
+            {
+                "config_entries": [
+                    "aa60c06a360b46039cbfc2e24fa92127"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "fc:ec:da:d0:d4:bd"
+                    ]
+                ],
+                "hub_device_id": null,
+                "id": "1d801898ecd74435ba20f794cc2c8102",
+                "identifiers": [],
+                "manufacturer": "Ubiquiti",
+                "model": "UniFi Controller",
+                "name": "UniFi Controller",
+                "sw_version": null
             }
         ]
     },

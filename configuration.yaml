@@ -21,13 +21,12 @@ emulated_hue:
     - group
 
 http:
-  api_password: !secret api_password
-  base_url: 192.168.1.247:8123
+  base_url: 192.168.1.181:8123
 
 tts:
   - platform: google
     cache: true
-    cache_dir: /mnt/freenas/media/hass-cache
+    cache_dir: /scratch
     time_memory: 57600
 
 frontend:
@@ -38,21 +37,24 @@ conversation:
 history:
 logbook:
 sun:
+ffmpeg:
+
 # zwave:
 #   usb_path: /dev/ttyACM0
 #   autoheal: false
-#   #config_path: /home/mike/open-zwave-control-panel/
-#   new_entity_ids: true
+#   network_key: !secret zwave_network_key
 
 sensor: !include_dir_merge_list sensors/
 mqtt: !include mqtt.yaml
-automation: !include_dir_list automation/
+automation old: !include_dir_list automation/
+automation: !include automations.yaml
 zone: !include zones.yaml
 proximity: !include proximity.yaml
 light: !include_dir_merge_list light/
 group: !include_dir_merge_named groups/
 script: !include_dir_merge_named scripts/
 remote: !include_dir_merge_list remotes/
+camera: !include_dir_merge_list cameras/
 
 climate:
   platform: zwave
@@ -71,15 +73,21 @@ input_boolean: !include_dir_merge_named components/input_boolean/
 
 device_tracker:
   - platform: owntracks
-    max_gps_accuracy: 200
-    waypoints: True
-    waypoint_whitelist:
-      - mike
-      - christine
-      - home
+
+owntracks:
+  max_gps_accuracy: 200
+  waypoints: True
+  waypoint_whitelist:
+    - mike
+    - christine
+    - home
 
 ecobee:
   api_key: !secret ecobee_api_key
+
+arlo:
+  username: !secret arlo_username
+  password: !secret arlo_password
 
 notify:
   - name: ecobee

@@ -378,6 +378,87 @@
                 "name": "Family Room Back Lights",
                 "platform": "zwave",
                 "unique_id": "25-72057594462175233"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "zwave.linear_lb60z1_dimmable_led_light_bulb",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "node-26"
+            },
+            {
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "56dca16e7c8043b2b19c084586105156",
+                "disabled_by": null,
+                "entity_id": "light.linear_lb60z1_dimmable_led_light_bulb_level",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "26-72057594478952449"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "zwave.linear_lb60z1_dimmable_led_light_bulb_2",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "node-27"
+            },
+            {
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "3a9bf2a297bc4e9d972c64ed919e5847",
+                "disabled_by": null,
+                "entity_id": "light.linear_lb60z1_dimmable_led_light_bulb_level_2",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "27-72057594495729665"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "zwave.linear_lb60z1_dimmable_led_light_bulb_3",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "node-28"
+            },
+            {
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "aaeda85a22ad45d28f9a03555d53fb82",
+                "disabled_by": null,
+                "entity_id": "light.linear_lb60z1_dimmable_led_light_bulb_level_3",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "28-72057594512506881"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "zwave.unknown_node_9",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "node-9"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "zwave.homeseer_hswd100_wall_dimmer_3",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "node-29"
+            },
+            {
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "142550e9f2c542868f3d5fb6e54b11e0",
+                "disabled_by": null,
+                "entity_id": "light.homeseer_hswd100_wall_dimmer_level_3",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "29-72057594529284097"
             }
         ]
     },

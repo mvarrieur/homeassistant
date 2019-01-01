@@ -2,6 +2,6 @@ front_porch_lights:
   name: Front Porch Lights
   icon: mdi:nature-people
   entities:
-    - light.porch_light_left_level
-    - light.porch_light_middle_level
-    - light.porch_light_right_level
+    - light.linear_lb60z1_dimmable_led_light_bulb_level
+    - light.linear_lb60z1_dimmable_led_light_bulb_level_2
+    - light.linear_lb60z1_dimmable_led_light_bulb_level_3
