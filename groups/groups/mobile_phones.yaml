@@ -1,0 +1,6 @@
+mobile_phones:
+  name: Mobile Phones
+  icon: mdi:smartphone
+  entities:
+    - device_tracker.christine_christine
+    - device_tracker.mike_mike

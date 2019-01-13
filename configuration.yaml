@@ -38,11 +38,12 @@ history:
 logbook:
 sun:
 ffmpeg:
+map:
 
-# zwave:
-#   usb_path: /dev/ttyACM0
-#   autoheal: false
-#   network_key: !secret zwave_network_key
+zwave:
+  usb_path: /dev/ttyACM0
+  autoheal: false
+  network_key: !secret zwave_network_key
 
 sensor: !include_dir_merge_list sensors/
 mqtt: !include mqtt.yaml
@@ -53,7 +54,6 @@ proximity: !include proximity.yaml
 light: !include_dir_merge_list light/
 group: !include_dir_merge_named groups/
 script: !include_dir_merge_named scripts/
-remote: !include_dir_merge_list remotes/
 camera: !include_dir_merge_list cameras/
 
 climate:
@@ -73,7 +73,14 @@ input_boolean: !include_dir_merge_named components/input_boolean/
 
 device_tracker:
   - platform: owntracks
-  - platform: unifi
+  # - platform: unifi
+  #   host: 192.168.1.239
+  #   username: !secret unifi_username
+  #   password: !secret unifi_password
+  #   verify_ssl: false
+  #   new_device_defaults:
+  #     track_new_devices: false
+
 
 owntracks:
   max_gps_accuracy: 200
@@ -97,5 +104,3 @@ notify:
     platform: pushover
     api_key: !secret pushover_api_key
     user_key: !secret pushover_user_key
-
-

@@ -42,25 +42,6 @@
                 "source": "import",
                 "title": "OwnTracks",
                 "version": 1
-            },
-            {
-                "connection_class": "local_poll",
-                "data": {
-                    "controller": {
-                        "host": "192.168.1.239",
-                        "password": "Rileigh11",
-                        "port": 8443,
-                        "site": "default",
-                        "username": "ubnt",
-                        "verify_ssl": false
-                    },
-                    "poe_control": true
-                },
-                "domain": "unifi",
-                "entry_id": "aa60c06a360b46039cbfc2e24fa92127",
-                "source": "user",
-                "title": "Default",
-                "version": 1
             }
         ]
     },

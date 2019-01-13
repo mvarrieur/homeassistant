@@ -6,7 +6,7 @@ condition:
   condition: and
   conditions:
   - condition: state
-    entity_id: group.all_devices
+    entity_id: group.parent_phones
     state: 'home'
   - condition: sun
     before: sunrise

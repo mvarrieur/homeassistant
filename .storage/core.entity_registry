@@ -371,15 +371,6 @@
                 "unique_id": "node-25"
             },
             {
-                "config_entry_id": "5e6510705770490b8c22715779985c04",
-                "device_id": "c1067939dbae40658200b202188b6cf7",
-                "disabled_by": null,
-                "entity_id": "light.homeseer_hswd100_wall_dimmer_level_2",
-                "name": "Family Room Back Lights",
-                "platform": "zwave",
-                "unique_id": "25-72057594462175233"
-            },
-            {
                 "config_entry_id": null,
                 "device_id": null,
                 "disabled_by": null,

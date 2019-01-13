@@ -414,9 +414,7 @@
                 "sw_version": null
             },
             {
-                "config_entries": [
-                    "aa60c06a360b46039cbfc2e24fa92127"
-                ],
+                "config_entries": [],
                 "connections": [
                     [
                         "mac",
