@@ -2,10 +2,18 @@ zone.christine_work:
   friendly_name: Work
 zone.mike_work:
   friendly_name: Work
+zone.rileigh_school:
+  friendly_name: School
+proximity.rileigh_school:
+  friendly_name: School
 proximity.christine_work:
   friendly_name: Work
 proximity.mike_work:
   friendly_name: Work
+zone.nikki_house:
+  friendly_name: Nikki's House
+proximity.nikki_house:
+  friendly_name: Nikki's House
 light.linear_lb60z1_dimmable_led_light_bulb_level:
   friendly_name: Front Porch Left
 light.linear_lb60z1_dimmable_led_light_bulb_level_2:
@@ -14,3 +22,5 @@ light.linear_lb60z1_dimmable_led_light_bulb_level_3:
   friendly_name: Front Porch Right
 light.homeseer_hswd100_wall_dimmer_level_3:
   friendly_name: Family Room Back Lights
+light.homeseer_hswd100_wall_dimmer_level_2:
+  friendly_name: Rileigh Closet Light

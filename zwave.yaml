@@ -1,0 +1,33 @@
+usb_path: /dev/ttyACM0
+autoheal: false
+network_key: !secret zwave_network_key
+polling_interval: 10000
+device_config:
+  light.homeseer_hswd100_wall_dimmer_level:
+    polling_intensity: 1
+    refresh_value: 2
+    delay: 3
+  light.homeseer_hswd100_wall_dimmer_level_2:
+    polling_intensity: 1
+    refresh_value: 2
+    delay: 3
+  light.homeseer_hswd100_wall_dimmer_level_3:
+    polling_intensity: 1
+    refresh_value: 2
+    delay: 3
+  light.linear_lb60z1_dimmable_led_light_bulb_level:
+    polling_intensity: 1
+    refresh_value: 2
+    delay: 3
+  light.linear_lb60z1_dimmable_led_light_bulb_level_2:
+    polling_intensity: 1
+    refresh_value: 2
+    delay: 3
+  light.linear_lb60z1_dimmable_led_light_bulb_level_3:
+    polling_intensity: 1
+    refresh_value: 2
+    delay: 3
+  light.living_room_ceiling_light_level:
+    polling_intensity: 1
+    refresh_value: 2
+    delay: 3

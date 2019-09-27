@@ -15,3 +15,15 @@
   longitude: !secret mike_work_longitude
   radius: 500
   icon: mdi:desktop-mac
+
+- name: nikki_house
+  latitude: !secret nikki_house_latitude
+  longitude: !secret nikki_house_longitude
+  radius: 500
+  icon: mdi:home
+
+- name: rileigh_school
+  latitude: !secret rileigh_school_latitude
+  longitude: !secret rileigh_school_longitude
+  radius: 500
+  icon: mdi:bus-school

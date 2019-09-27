@@ -1,0 +1,3 @@
+- platform: local_file
+  file_path: /config/www/tensorflow/driveway_latest.jpg
+  name: Driveway

@@ -2,11 +2,11 @@
     "data": {
         "devices": [
             {
+                "area_id": null,
                 "config_entries": [
                     "b624f583ac504f42881b95b841d3efea"
                 ],
                 "connections": [],
-                "hub_device_id": null,
                 "id": "3caae0afaa244bf08f6b0bd94039377a",
                 "identifiers": [
                     [
@@ -14,17 +14,19 @@
                         "b6d6caabbc1887faee2691c14c9fdef6"
                     ]
                 ],
-                "manufacturer": "Google Inc.",
+                "manufacturer": "Unknown manufacturer",
                 "model": "Google Home",
                 "name": "Kitchen Home",
-                "sw_version": null
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
             },
             {
+                "area_id": null,
                 "config_entries": [
                     "b624f583ac504f42881b95b841d3efea"
                 ],
                 "connections": [],
-                "hub_device_id": null,
                 "id": "e377be85d0d6492d9dca31aef506a7bf",
                 "identifiers": [
                     [
@@ -35,14 +37,16 @@
                 "manufacturer": "VIZIO",
                 "model": "P65-C1",
                 "name": "Family Room",
-                "sw_version": null
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
             },
             {
+                "area_id": null,
                 "config_entries": [
                     "b624f583ac504f42881b95b841d3efea"
                 ],
                 "connections": [],
-                "hub_device_id": null,
                 "id": "bcbd2aa282b649ec89c2a293b68e8802",
                 "identifiers": [
                     [
@@ -50,17 +54,19 @@
                         "47f9de15f8cc3bb608a3ba163aa7b9bb"
                     ]
                 ],
-                "manufacturer": "Google Inc.",
+                "manufacturer": "Unknown manufacturer",
                 "model": "Chromecast",
                 "name": "Office TV",
-                "sw_version": null
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
             },
             {
+                "area_id": null,
                 "config_entries": [
                     "b624f583ac504f42881b95b841d3efea"
                 ],
                 "connections": [],
-                "hub_device_id": null,
                 "id": "997e0864e43b435b854e834d413420b3",
                 "identifiers": [
                     [
@@ -68,17 +74,19 @@
                         "ea7e6d1732277c835164a11065ba1424"
                     ]
                 ],
-                "manufacturer": "Google Inc.",
+                "manufacturer": "Unknown manufacturer",
                 "model": "Chromecast Audio",
                 "name": "Living Room Speaker",
-                "sw_version": null
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
             },
             {
+                "area_id": null,
                 "config_entries": [
                     "b624f583ac504f42881b95b841d3efea"
                 ],
                 "connections": [],
-                "hub_device_id": null,
                 "id": "fd1853911c5944f5ae293a52c509e463",
                 "identifiers": [
                     [
@@ -89,14 +97,16 @@
                 "manufacturer": "Google Inc.",
                 "model": "Chromecast",
                 "name": "Master Bedroom TV",
-                "sw_version": null
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
             },
             {
+                "area_id": null,
                 "config_entries": [
                     "b624f583ac504f42881b95b841d3efea"
                 ],
                 "connections": [],
-                "hub_device_id": null,
                 "id": "c8b3a650906843028c4827e51676a933",
                 "identifiers": [
                     [
@@ -104,17 +114,19 @@
                         "5a9e6043f39155cc50da9b5df7ac9e6c"
                     ]
                 ],
-                "manufacturer": "Google Inc.",
+                "manufacturer": "Unknown manufacturer",
                 "model": "Chromecast Audio",
                 "name": "Backyard Speaker",
-                "sw_version": null
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
             },
             {
+                "area_id": null,
                 "config_entries": [
                     "5e6510705770490b8c22715779985c04"
                 ],
                 "connections": [],
-                "hub_device_id": null,
                 "id": "06f1469cdabc409ea9478fc4930b9a16",
                 "identifiers": [
                     [
@@ -125,14 +137,16 @@
                 "manufacturer": "Linear",
                 "model": "LB60Z-1 Dimmable LED Light Bulb",
                 "name": "Porch Light Right",
-                "sw_version": null
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
             },
             {
+                "area_id": null,
                 "config_entries": [
                     "5e6510705770490b8c22715779985c04"
                 ],
                 "connections": [],
-                "hub_device_id": null,
                 "id": "1ea4ac5c4e324b178dd5c48cae5e5cd7",
                 "identifiers": [
                     [
@@ -143,14 +157,16 @@
                 "manufacturer": "GE",
                 "model": "12730 Fan Control Switch",
                 "name": "Living Room Fan",
-                "sw_version": null
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": "6150cda36c5348df97344d8548a20f0b"
             },
             {
+                "area_id": null,
                 "config_entries": [
                     "5e6510705770490b8c22715779985c04"
                 ],
                 "connections": [],
-                "hub_device_id": null,
                 "id": "87359d72b0824adb838c727274d0f711",
                 "identifiers": [
                     [
@@ -161,14 +177,16 @@
                 "manufacturer": "HomeSeer",
                 "model": "HS-WD100+ Wall Dimmer",
                 "name": "Living Room Ceiling Light",
-                "sw_version": null
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": "6150cda36c5348df97344d8548a20f0b"
             },
             {
+                "area_id": null,
                 "config_entries": [
                     "5e6510705770490b8c22715779985c04"
                 ],
                 "connections": [],
-                "hub_device_id": null,
                 "id": "bb8ae1db929947239fc7ec3d96851d1f",
                 "identifiers": [
                     [
@@ -179,14 +197,16 @@
                 "manufacturer": "",
                 "model": "",
                 "name": "Basement Water",
-                "sw_version": null
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": "6150cda36c5348df97344d8548a20f0b"
             },
             {
+                "area_id": null,
                 "config_entries": [
                     "5e6510705770490b8c22715779985c04"
                 ],
                 "connections": [],
-                "hub_device_id": null,
                 "id": "ffea2d0674f54c8695a83357b3da7ef2",
                 "identifiers": [
                     [
@@ -197,14 +217,16 @@
                 "manufacturer": "",
                 "model": "",
                 "name": "Attic A/C Water",
-                "sw_version": null
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": "6150cda36c5348df97344d8548a20f0b"
             },
             {
+                "area_id": null,
                 "config_entries": [
                     "5e6510705770490b8c22715779985c04"
                 ],
                 "connections": [],
-                "hub_device_id": null,
                 "id": "c7ec7c1539c64e19a1a3bb0ced6209f7",
                 "identifiers": [
                     [
@@ -215,14 +237,16 @@
                 "manufacturer": "Sensative",
                 "model": "Strips",
                 "name": "Front Door",
-                "sw_version": null
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": "6150cda36c5348df97344d8548a20f0b"
             },
             {
+                "area_id": null,
                 "config_entries": [
                     "5e6510705770490b8c22715779985c04"
                 ],
                 "connections": [],
-                "hub_device_id": null,
                 "id": "74aa04dc72fc4576b2bf9fb98387572f",
                 "identifiers": [
                     [
@@ -233,14 +257,16 @@
                 "manufacturer": "GE",
                 "model": "12721 Lighting Control Duplex Receptacle",
                 "name": "Garage Outlet 1",
-                "sw_version": null
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": "6150cda36c5348df97344d8548a20f0b"
             },
             {
+                "area_id": null,
                 "config_entries": [
                     "5e6510705770490b8c22715779985c04"
                 ],
                 "connections": [],
-                "hub_device_id": null,
                 "id": "5c06652fb73f42aabaa1a9a9daf01c6e",
                 "identifiers": [
                     [
@@ -251,14 +277,16 @@
                 "manufacturer": "Linear",
                 "model": "LB60Z-1 Dimmable LED Light Bulb",
                 "name": "porch_light_middle",
-                "sw_version": null
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
             },
             {
+                "area_id": null,
                 "config_entries": [
                     "5e6510705770490b8c22715779985c04"
                 ],
                 "connections": [],
-                "hub_device_id": null,
                 "id": "bcfd8175a0074c70a8828918aabb2919",
                 "identifiers": [
                     [
@@ -269,12 +297,14 @@
                 "manufacturer": "Linear",
                 "model": "LB60Z-1 Dimmable LED Light Bulb",
                 "name": "Porch Light Left",
-                "sw_version": null
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
             },
             {
+                "area_id": null,
                 "config_entries": [],
                 "connections": [],
-                "hub_device_id": null,
                 "id": "90358dc58ef14c14a06f3bec863dacc3",
                 "identifiers": [
                     [
@@ -285,14 +315,16 @@
                 "manufacturer": "2GIG Technologies",
                 "model": "Unknown: type=0000, id=0000",
                 "name": "2GIG Technologies Unknown: type=0000, id=0000",
-                "sw_version": null
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
             },
             {
+                "area_id": null,
                 "config_entries": [
                     "b624f583ac504f42881b95b841d3efea"
                 ],
                 "connections": [],
-                "hub_device_id": null,
                 "id": "903af7dae5224fd78aad3e6ace5f24ee",
                 "identifiers": [
                     [
@@ -300,17 +332,19 @@
                         "fbce3db74e864760c4c5d2544c916124"
                     ]
                 ],
-                "manufacturer": "Google Inc.",
+                "manufacturer": "Unknown manufacturer",
                 "model": "Google Home Mini",
                 "name": "Master Bedroom speaker",
-                "sw_version": null
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
             },
             {
+                "area_id": null,
                 "config_entries": [
                     "5e6510705770490b8c22715779985c04"
                 ],
                 "connections": [],
-                "hub_device_id": null,
                 "id": "a9870d9d760e4a7facc178bf65667bf1",
                 "identifiers": [
                     [
@@ -321,14 +355,16 @@
                 "manufacturer": "HomeSeer",
                 "model": "HS-WD100+ Wall Dimmer",
                 "name": "HomeSeer HS-WD100+ Wall Dimmer",
-                "sw_version": null
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": "6150cda36c5348df97344d8548a20f0b"
             },
             {
+                "area_id": null,
                 "config_entries": [
                     "5e6510705770490b8c22715779985c04"
                 ],
                 "connections": [],
-                "hub_device_id": null,
                 "id": "c1067939dbae40658200b202188b6cf7",
                 "identifiers": [
                     [
@@ -339,14 +375,16 @@
                 "manufacturer": "HomeSeer",
                 "model": "HS-WD100+ Wall Dimmer",
                 "name": "HomeSeer HS-WD100+ Wall Dimmer",
-                "sw_version": null
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
             },
             {
+                "area_id": null,
                 "config_entries": [
                     "5e6510705770490b8c22715779985c04"
                 ],
                 "connections": [],
-                "hub_device_id": null,
                 "id": "56dca16e7c8043b2b19c084586105156",
                 "identifiers": [
                     [
@@ -357,14 +395,16 @@
                 "manufacturer": "Linear",
                 "model": "LB60Z-1 Dimmable LED Light Bulb",
                 "name": "Linear LB60Z-1 Dimmable LED Light Bulb",
-                "sw_version": null
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": "6150cda36c5348df97344d8548a20f0b"
             },
             {
+                "area_id": null,
                 "config_entries": [
                     "5e6510705770490b8c22715779985c04"
                 ],
                 "connections": [],
-                "hub_device_id": null,
                 "id": "3a9bf2a297bc4e9d972c64ed919e5847",
                 "identifiers": [
                     [
@@ -375,14 +415,16 @@
                 "manufacturer": "Linear",
                 "model": "LB60Z-1 Dimmable LED Light Bulb",
                 "name": "Linear LB60Z-1 Dimmable LED Light Bulb",
-                "sw_version": null
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": "6150cda36c5348df97344d8548a20f0b"
             },
             {
+                "area_id": null,
                 "config_entries": [
                     "5e6510705770490b8c22715779985c04"
                 ],
                 "connections": [],
-                "hub_device_id": null,
                 "id": "aaeda85a22ad45d28f9a03555d53fb82",
                 "identifiers": [
                     [
@@ -393,14 +435,16 @@
                 "manufacturer": "Linear",
                 "model": "LB60Z-1 Dimmable LED Light Bulb",
                 "name": "Linear LB60Z-1 Dimmable LED Light Bulb",
-                "sw_version": null
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": "6150cda36c5348df97344d8548a20f0b"
             },
             {
+                "area_id": null,
                 "config_entries": [
                     "5e6510705770490b8c22715779985c04"
                 ],
                 "connections": [],
-                "hub_device_id": null,
                 "id": "142550e9f2c542868f3d5fb6e54b11e0",
                 "identifiers": [
                     [
@@ -411,9 +455,12 @@
                 "manufacturer": "HomeSeer",
                 "model": "HS-WD100+ Wall Dimmer",
                 "name": "HomeSeer HS-WD100+ Wall Dimmer",
-                "sw_version": null
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": "6150cda36c5348df97344d8548a20f0b"
             },
             {
+                "area_id": null,
                 "config_entries": [],
                 "connections": [
                     [
@@ -421,13 +468,134 @@
                         "fc:ec:da:d0:d4:bd"
                     ]
                 ],
-                "hub_device_id": null,
                 "id": "1d801898ecd74435ba20f794cc2c8102",
                 "identifiers": [],
                 "manufacturer": "Ubiquiti",
                 "model": "UniFi Controller",
                 "name": "UniFi Controller",
-                "sw_version": null
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "5e6510705770490b8c22715779985c04"
+                ],
+                "connections": [],
+                "id": "72f120037ec94b769101d425fce7f95a",
+                "identifiers": [
+                    [
+                        "zwave",
+                        30
+                    ]
+                ],
+                "manufacturer": "HomeSeer",
+                "model": "HS-WD100+ Wall Dimmer",
+                "name": "HomeSeer HS-WD100+ Wall Dimmer",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": "6150cda36c5348df97344d8548a20f0b"
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "5e6510705770490b8c22715779985c04"
+                ],
+                "connections": [],
+                "id": "6150cda36c5348df97344d8548a20f0b",
+                "identifiers": [
+                    [
+                        "zwave",
+                        1
+                    ]
+                ],
+                "manufacturer": "Aeotec",
+                "model": "ZW090 Z-Stick Gen5 US",
+                "name": "Aeotec ZW090 Z-Stick Gen5 US",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "5e6510705770490b8c22715779985c04"
+                ],
+                "connections": [],
+                "id": "67b944e467854701a96959975b7f83eb",
+                "identifiers": [
+                    [
+                        "zwave",
+                        9
+                    ]
+                ],
+                "manufacturer": "",
+                "model": "",
+                "name": "Unknown Node 9",
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": "6150cda36c5348df97344d8548a20f0b"
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "a546f91c9cee486288d2f8b55910d70a"
+                ],
+                "connections": [],
+                "id": "1423ac895a094b4ea165cb846df7af20",
+                "identifiers": [
+                    [
+                        "owntracks",
+                        "mike_pixel3"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "a546f91c9cee486288d2f8b55910d70a"
+                ],
+                "connections": [],
+                "id": "8209d9c861da4868a920cf10e51351c7",
+                "identifiers": [
+                    [
+                        "owntracks",
+                        "christine_christine"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "a546f91c9cee486288d2f8b55910d70a"
+                ],
+                "connections": [],
+                "id": "23c1ff489d774ad59ddeab7a94a76b93",
+                "identifiers": [
+                    [
+                        "owntracks",
+                        "rileigh_pixel"
+                    ]
+                ],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
             }
         ]
     },

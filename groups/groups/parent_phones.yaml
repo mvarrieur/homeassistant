@@ -1,6 +1,6 @@
-mobile_phones:
-  name: Mobile Phones
+parent_phones:
+  name: Parent Phones
   icon: mdi:smartphone
   entities:
     - device_tracker.christine_christine
-    - device_tracker.mike_mike
+    - device_tracker.mike_pixel3

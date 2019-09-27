@@ -1,0 +1,24 @@
+{
+    "data": {
+        "persons": [
+            {
+                "device_trackers": [
+                    "device_tracker.christine_christine"
+                ],
+                "id": "480f3fc2c3834bd98d80f6b3d61c0347",
+                "name": "Christine",
+                "user_id": null
+            },
+            {
+                "device_trackers": [
+                    "device_tracker.rileigh_pixel"
+                ],
+                "id": "06f639e200e64abbac83e0a255c93354",
+                "name": "Rileigh",
+                "user_id": null
+            }
+        ]
+    },
+    "key": "person",
+    "version": 1
+}

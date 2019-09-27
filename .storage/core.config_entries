@@ -3,10 +3,16 @@
         "entries": [
             {
                 "connection_class": "unknown",
-                "data": {},
+                "data": {
+                    "user_id": "8d2683fd9e9a4fc0abf1b4de2fba5071"
+                },
                 "domain": "cast",
                 "entry_id": "b624f583ac504f42881b95b841d3efea",
+                "options": {},
                 "source": "discovery",
+                "system_options": {
+                    "disable_new_entities": false
+                },
                 "title": "Google Cast",
                 "version": 1
             },
@@ -15,7 +21,11 @@
                 "data": {},
                 "domain": "mqtt",
                 "entry_id": "c90887c899f34163bbf330dc1ca38be4",
+                "options": {},
                 "source": "import",
+                "system_options": {
+                    "disable_new_entities": false
+                },
                 "title": "configuration.yaml",
                 "version": 1
             },
@@ -27,7 +37,11 @@
                 },
                 "domain": "zwave",
                 "entry_id": "5e6510705770490b8c22715779985c04",
+                "options": {},
                 "source": "user",
+                "system_options": {
+                    "disable_new_entities": false
+                },
                 "title": "Z-Wave",
                 "version": 1
             },
@@ -39,7 +53,11 @@
                 },
                 "domain": "owntracks",
                 "entry_id": "a546f91c9cee486288d2f8b55910d70a",
+                "options": {},
                 "source": "import",
+                "system_options": {
+                    "disable_new_entities": false
+                },
                 "title": "OwnTracks",
                 "version": 1
             }

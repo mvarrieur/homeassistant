@@ -5,13 +5,16 @@ homeassistant:
   latitude: !secret home_latitude
   longitude: !secret home_longitude
   # Impacts weather/sunrise data (altitude above sea level in meters)
-  elevation: 180
+  elevation: 32
   # metric for Metric, imperial for Imperial
   unit_system: imperial
   # Pick yours from here: http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
   time_zone: America/New_York
   # Friendly Names
   customize: !include customize.yaml
+  auth_providers:
+    - type: legacy_api_password
+      api_password: !secret api_password
 
 emulated_hue:
   expose_by_default: true
@@ -22,9 +25,11 @@ emulated_hue:
 
 http:
   base_url: 192.168.1.181:8123
+api:
 
 tts:
-  - platform: google
+  - platform: google_translate
+    service_name: google_say
     cache: true
     cache_dir: /scratch
     time_memory: 57600
@@ -39,12 +44,10 @@ logbook:
 sun:
 ffmpeg:
 map:
+system_health:
 
-zwave:
-  usb_path: /dev/ttyACM0
-  autoheal: false
-  network_key: !secret zwave_network_key
-
+person: !include_dir_merge_list person/
+zwave: !include zwave.yaml
 sensor: !include_dir_merge_list sensors/
 mqtt: !include mqtt.yaml
 automation old: !include_dir_list automation/
@@ -55,6 +58,8 @@ light: !include_dir_merge_list light/
 group: !include_dir_merge_named groups/
 script: !include_dir_merge_named scripts/
 camera: !include_dir_merge_list cameras/
+input_boolean: !include_dir_merge_named components/input_boolean/
+# image_processing: !include_dir_merge_list image_processing/
 
 climate:
   platform: zwave
@@ -69,10 +74,8 @@ cover:
     state_topic: "cover/right_garage_door"
     command_topic: "cover/right_garage_door/set"
 
-input_boolean: !include_dir_merge_named components/input_boolean/
-
 device_tracker:
-  - platform: owntracks
+  # - platform: owntracks
   # - platform: unifi
   #   host: 192.168.1.239
   #   username: !secret unifi_username
@@ -82,13 +85,11 @@ device_tracker:
   #     track_new_devices: false
 
 
-owntracks:
-  max_gps_accuracy: 200
-  waypoints: True
-  waypoint_whitelist:
-    - mike
-    - christine
-    - home
+# owntracks:
+#   max_gps_accuracy: 200
+#   waypoints: True
+#   waypoint_whitelist:
+#     - mike
 
 ecobee:
   api_key: !secret ecobee_api_key

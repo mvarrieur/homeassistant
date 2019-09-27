@@ -1,0 +1,4 @@
+house_guests:
+  name: House Guests
+  initial: off
+  icon: mdi:home-account

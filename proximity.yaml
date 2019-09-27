@@ -3,7 +3,7 @@ home:
     - christine_work
     - mike_work
   devices:
-    - device_tracker.mike_mike
+    - device_tracker.mike_pixel3
     - device_tracker.christine_christine
   tolerance: 200
   unit_of_measurement: mi
@@ -18,6 +18,6 @@ mike_work:
   ignored_zones:
     - home
   devices:
-    - device_tracker.mike_mike
+    - device_tracker.mike_pixel3
   tolerance: 200
   unit_of_measurement: mi

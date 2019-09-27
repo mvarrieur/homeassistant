@@ -200,8 +200,8 @@
                 "unique_id": "b6d6caab-bc18-87fa-ee26-91c14c9fdef6"
             },
             {
-                "config_entry_id": null,
-                "device_id": null,
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "6150cda36c5348df97344d8548a20f0b",
                 "disabled_by": null,
                 "entity_id": "zwave.aeotec_zw090_zstick_gen5_us",
                 "name": null,
@@ -218,8 +218,8 @@
                 "unique_id": "node-4"
             },
             {
-                "config_entry_id": null,
-                "device_id": null,
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "1ea4ac5c4e324b178dd5c48cae5e5cd7",
                 "disabled_by": null,
                 "entity_id": "zwave.living_room_fan",
                 "name": null,
@@ -227,8 +227,8 @@
                 "unique_id": "node-5"
             },
             {
-                "config_entry_id": null,
-                "device_id": null,
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "87359d72b0824adb838c727274d0f711",
                 "disabled_by": null,
                 "entity_id": "zwave.living_room_ceiling_light",
                 "name": null,
@@ -236,8 +236,8 @@
                 "unique_id": "node-6"
             },
             {
-                "config_entry_id": null,
-                "device_id": null,
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "bb8ae1db929947239fc7ec3d96851d1f",
                 "disabled_by": null,
                 "entity_id": "zwave.basement_water",
                 "name": null,
@@ -245,8 +245,8 @@
                 "unique_id": "node-12"
             },
             {
-                "config_entry_id": null,
-                "device_id": null,
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "ffea2d0674f54c8695a83357b3da7ef2",
                 "disabled_by": null,
                 "entity_id": "zwave.attic_ac_water",
                 "name": null,
@@ -254,8 +254,8 @@
                 "unique_id": "node-13"
             },
             {
-                "config_entry_id": null,
-                "device_id": null,
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "c7ec7c1539c64e19a1a3bb0ced6209f7",
                 "disabled_by": null,
                 "entity_id": "zwave.front_door",
                 "name": null,
@@ -263,8 +263,8 @@
                 "unique_id": "node-17"
             },
             {
-                "config_entry_id": null,
-                "device_id": null,
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "74aa04dc72fc4576b2bf9fb98387572f",
                 "disabled_by": null,
                 "entity_id": "zwave.garage_outlet_1",
                 "name": null,
@@ -344,8 +344,8 @@
                 "unique_id": "fbce3db7-4e86-4760-c4c5-d2544c916124"
             },
             {
-                "config_entry_id": null,
-                "device_id": null,
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "a9870d9d760e4a7facc178bf65667bf1",
                 "disabled_by": null,
                 "entity_id": "zwave.homeseer_hswd100_wall_dimmer",
                 "name": null,
@@ -371,8 +371,8 @@
                 "unique_id": "node-25"
             },
             {
-                "config_entry_id": null,
-                "device_id": null,
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "56dca16e7c8043b2b19c084586105156",
                 "disabled_by": null,
                 "entity_id": "zwave.linear_lb60z1_dimmable_led_light_bulb",
                 "name": null,
@@ -389,8 +389,8 @@
                 "unique_id": "26-72057594478952449"
             },
             {
-                "config_entry_id": null,
-                "device_id": null,
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "3a9bf2a297bc4e9d972c64ed919e5847",
                 "disabled_by": null,
                 "entity_id": "zwave.linear_lb60z1_dimmable_led_light_bulb_2",
                 "name": null,
@@ -407,8 +407,8 @@
                 "unique_id": "27-72057594495729665"
             },
             {
-                "config_entry_id": null,
-                "device_id": null,
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "aaeda85a22ad45d28f9a03555d53fb82",
                 "disabled_by": null,
                 "entity_id": "zwave.linear_lb60z1_dimmable_led_light_bulb_3",
                 "name": null,
@@ -425,8 +425,8 @@
                 "unique_id": "28-72057594512506881"
             },
             {
-                "config_entry_id": null,
-                "device_id": null,
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "67b944e467854701a96959975b7f83eb",
                 "disabled_by": null,
                 "entity_id": "zwave.unknown_node_9",
                 "name": null,
@@ -434,8 +434,8 @@
                 "unique_id": "node-9"
             },
             {
-                "config_entry_id": null,
-                "device_id": null,
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "142550e9f2c542868f3d5fb6e54b11e0",
                 "disabled_by": null,
                 "entity_id": "zwave.homeseer_hswd100_wall_dimmer_3",
                 "name": null,
@@ -450,6 +450,87 @@
                 "name": null,
                 "platform": "zwave",
                 "unique_id": "29-72057594529284097"
+            },
+            {
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "72f120037ec94b769101d425fce7f95a",
+                "disabled_by": null,
+                "entity_id": "zwave.homeseer_hswd100_wall_dimmer_4",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "node-30"
+            },
+            {
+                "config_entry_id": "5e6510705770490b8c22715779985c04",
+                "device_id": "72f120037ec94b769101d425fce7f95a",
+                "disabled_by": null,
+                "entity_id": "light.homeseer_hswd100_wall_dimmer_level_2",
+                "name": null,
+                "platform": "zwave",
+                "unique_id": "30-72057594546061313"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "binary_sensor.updater",
+                "name": null,
+                "platform": "updater",
+                "unique_id": "updater"
+            },
+            {
+                "config_entry_id": "a546f91c9cee486288d2f8b55910d70a",
+                "device_id": "1423ac895a094b4ea165cb846df7af20",
+                "disabled_by": null,
+                "entity_id": "device_tracker.mike_pixel3",
+                "name": null,
+                "platform": "owntracks",
+                "unique_id": "mike_pixel3"
+            },
+            {
+                "config_entry_id": "a546f91c9cee486288d2f8b55910d70a",
+                "device_id": "8209d9c861da4868a920cf10e51351c7",
+                "disabled_by": null,
+                "entity_id": "device_tracker.christine_christine",
+                "name": null,
+                "platform": "owntracks",
+                "unique_id": "christine_christine"
+            },
+            {
+                "config_entry_id": "a546f91c9cee486288d2f8b55910d70a",
+                "device_id": "23c1ff489d774ad59ddeab7a94a76b93",
+                "disabled_by": null,
+                "entity_id": "device_tracker.rileigh_pixel",
+                "name": null,
+                "platform": "owntracks",
+                "unique_id": "rileigh_pixel"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "person.mike",
+                "name": null,
+                "platform": "person",
+                "unique_id": "mike0424"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "person.christine",
+                "name": null,
+                "platform": "person",
+                "unique_id": "480f3fc2c3834bd98d80f6b3d61c0347"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "person.rileigh",
+                "name": null,
+                "platform": "person",
+                "unique_id": "06f639e200e64abbac83e0a255c93354"
             }
         ]
     },

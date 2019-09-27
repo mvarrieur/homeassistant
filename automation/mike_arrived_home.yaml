@@ -1,11 +1,11 @@
 alias: "Mike Arriving Home"
 trigger:
   - platform: state
-    entity_id: device_tracker.mike_mike
+    entity_id: device_tracker.mike_pixel3
     from: 'not_home'
     to: 'home'
   - platform: state
-    entity_id: device_tracker.mike_mike
+    entity_id: device_tracker.mike_pixel3
     from: 'Work'
     to: 'home'
 condition:

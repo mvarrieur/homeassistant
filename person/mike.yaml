@@ -1,0 +1,5 @@
+- name: Mike
+  id: mike0424
+  user_id: ea9fbf36f2824a3f9dc22d59536ce843
+  device_trackers:
+    - device_tracker.mike_pixel3

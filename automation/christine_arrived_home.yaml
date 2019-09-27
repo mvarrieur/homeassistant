@@ -10,7 +10,7 @@ trigger:
     to: 'home'
 condition:
   - condition: state
-    entity_id: device_tracker.mike_mike
+    entity_id: device_tracker.mike_pixel3
     state: 'home'
 action:
   - service: tts.google_say
