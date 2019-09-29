@@ -864,6 +864,15 @@
                 "name": null,
                 "platform": "person",
                 "unique_id": "05d0d64bf4a64b949ffb5403628b462f"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "2b824b7c808b4f0fb76f2c023d02674b",
+                "disabled_by": null,
+                "entity_id": "device_tracker.steamlink_2b10",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "e0:31:9e:0e:1a:09-default"
             }
         ]
     },

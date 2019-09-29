@@ -1298,6 +1298,26 @@
                 "name_by_user": null,
                 "sw_version": null,
                 "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "e0:31:9e:0e:1a:09"
+                    ]
+                ],
+                "id": "2b824b7c808b4f0fb76f2c023d02674b",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
             }
         ]
     },
