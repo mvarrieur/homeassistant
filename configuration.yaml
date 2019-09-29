@@ -23,6 +23,12 @@ emulated_hue:
     - light
     - group
 
+lutron_caseta:
+  host: 192.168.1.245
+  keyfile: caseta.key
+  certfile: caseta.crt
+  ca_certs: caseta-bridge.crt
+
 http:
   base_url: 192.168.1.181:8123
 api:

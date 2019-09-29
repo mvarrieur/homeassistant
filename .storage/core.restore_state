@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "House Guests",
@@ -19,7 +19,7 @@
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Pushover Notifications",
@@ -37,7 +37,7 @@
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Vacation Mode",
@@ -55,54 +55,54 @@
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "editable": false,
                     "friendly_name": "Mike",
-                    "gps_accuracy": 1800,
+                    "gps_accuracy": 400.0,
                     "id": "mike0424",
-                    "latitude": 42.0237719,
-                    "longitude": -71.1680598,
+                    "latitude": 42.027209,
+                    "longitude": -71.166761,
                     "source": "device_tracker.mike_pixel3",
                     "user_id": "ea9fbf36f2824a3f9dc22d59536ce843"
                 },
                 "context": {
-                    "id": "4aa9f207df48493b8aa14b5e47e6a80b",
+                    "id": "c132a894aac946f8a8fd33d2236c44b1",
                     "parent_id": null,
                     "user_id": null
                 },
                 "entity_id": "person.mike",
-                "last_changed": "2019-09-27T16:53:59.663045+00:00",
-                "last_updated": "2019-09-27T16:53:59.663045+00:00",
+                "last_changed": "2019-09-29T14:09:32.119202+00:00",
+                "last_updated": "2019-09-29T14:09:32.119202+00:00",
                 "state": "home"
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "editable": true,
                     "friendly_name": "Christine",
-                    "gps_accuracy": 2016,
+                    "gps_accuracy": 10,
                     "id": "480f3fc2c3834bd98d80f6b3d61c0347",
-                    "latitude": 42.036376953125,
-                    "longitude": -71.16201929580276,
+                    "latitude": 42.027351837644375,
+                    "longitude": -71.16712974391055,
                     "source": "device_tracker.christine_christine"
                 },
                 "context": {
-                    "id": "15168dfb66cb4e2baa13f1754a26c515",
+                    "id": "9daf23f2cf7e41e0a0dfc253a05abc32",
                     "parent_id": null,
                     "user_id": null
                 },
                 "entity_id": "person.christine",
-                "last_changed": "2019-09-27T18:35:52.060288+00:00",
-                "last_updated": "2019-09-27T18:44:46.654745+00:00",
+                "last_changed": "2019-09-28T18:38:49.226258+00:00",
+                "last_updated": "2019-09-29T12:09:29.547472+00:00",
                 "state": "home"
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "editable": true,
@@ -125,25 +125,25 @@
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Porch lights on at 6:15 if home",
-                    "last_triggered": "2019-09-27T10:15:00.014686+00:00"
+                    "last_triggered": "2019-09-29T10:15:00.028381+00:00"
                 },
                 "context": {
-                    "id": "c293563a1efa4ff89c7e97cf893a8c8a",
+                    "id": "7d1cfb038ed84daeaa503dcbefc64b65",
                     "parent_id": null,
                     "user_id": null
                 },
                 "entity_id": "automation.porch_lights_on_at_6_15_if_home",
                 "last_changed": "2019-09-25T20:41:39.482487+00:00",
-                "last_updated": "2019-09-27T10:15:00.015086+00:00",
+                "last_updated": "2019-09-29T10:15:00.028608+00:00",
                 "state": "on"
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Attic Flood Detected",
@@ -161,7 +161,7 @@
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Master Bedroom Play Lights On",
@@ -179,7 +179,7 @@
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Porch lights on at sunset",
@@ -197,7 +197,7 @@
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Family Room Double Tap Off",
@@ -215,7 +215,7 @@
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Master Bedroom Media Pause Lights",
@@ -233,7 +233,7 @@
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Basement Flood Detected",
@@ -251,7 +251,7 @@
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Christine Arriving Home",
@@ -269,7 +269,7 @@
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Everyone left home",
@@ -287,7 +287,7 @@
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Family Room - Playing Audio",
@@ -305,7 +305,7 @@
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Family Room Double Tap On",
@@ -323,7 +323,7 @@
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Family Room - Audio End",
@@ -341,7 +341,7 @@
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Backyard Audio Start",
@@ -359,7 +359,7 @@
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Lights off when media done",
@@ -377,7 +377,7 @@
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Porch lights on if front door opens at night",
@@ -395,7 +395,7 @@
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Backyard Audio Start",
@@ -413,25 +413,25 @@
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Porch lights off at 11:15",
-                    "last_triggered": "2019-09-27T03:15:00.004432+00:00"
+                    "last_triggered": "2019-09-29T03:15:00.004385+00:00"
                 },
                 "context": {
-                    "id": "b65556035faf491d8d12102f69a04638",
+                    "id": "deb4c30a452147fda5b18a7622dad456",
                     "parent_id": null,
                     "user_id": null
                 },
                 "entity_id": "automation.porch_lights_off_at_11_15",
                 "last_changed": "2019-09-25T20:41:39.486435+00:00",
-                "last_updated": "2019-09-27T03:15:00.004524+00:00",
+                "last_updated": "2019-09-29T03:15:00.004474+00:00",
                 "state": "on"
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Mike Arriving Home",
@@ -449,7 +449,7 @@
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Porch lights on after sunset",
@@ -467,54 +467,53 @@
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
-                    "battery_level": 64,
                     "friendly_name": "mike",
-                    "gps_accuracy": 1800,
-                    "latitude": 42.0237719,
-                    "longitude": -71.1680598,
+                    "gps_accuracy": 400.0,
+                    "latitude": 42.027209,
+                    "longitude": -71.166761,
                     "source_type": "gps",
-                    "tid": "mv",
-                    "velocity": 0
+                    "tid": "mv"
                 },
                 "context": {
-                    "id": "23798eb9f32b4c08adc1d84d097dfe7d",
+                    "id": "3540f0aed61a45758e24c07fed34a8c1",
                     "parent_id": null,
                     "user_id": null
                 },
                 "entity_id": "device_tracker.mike_pixel3",
-                "last_changed": "2019-09-27T16:53:59.657714+00:00",
-                "last_updated": "2019-09-27T20:44:17.791265+00:00",
+                "last_changed": "2019-09-29T14:09:32.117521+00:00",
+                "last_updated": "2019-09-29T14:09:32.117521+00:00",
                 "state": "home"
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
-                    "battery_level": 57,
+                    "battery_level": 100,
                     "friendly_name": "christine",
-                    "gps_accuracy": 2016,
-                    "latitude": 42.036376953125,
-                    "longitude": -71.16201929580276,
+                    "gps_accuracy": 10,
+                    "latitude": 42.027351837644375,
+                    "longitude": -71.16712974391055,
                     "source_type": "gps",
-                    "tid": "cv"
+                    "tid": "cv",
+                    "velocity": 0
                 },
                 "context": {
-                    "id": "a597187f59ef4e5b962946af0f7777d1",
+                    "id": "814a486edc0e4b4aa9dffc4502da1647",
                     "parent_id": null,
                     "user_id": null
                 },
                 "entity_id": "device_tracker.christine_christine",
-                "last_changed": "2019-09-27T18:35:52.058687+00:00",
-                "last_updated": "2019-09-27T18:44:46.650229+00:00",
+                "last_changed": "2019-09-28T18:38:49.224371+00:00",
+                "last_updated": "2019-09-29T12:09:29.543193+00:00",
                 "state": "home"
             }
         },
         {
-            "last_seen": "2019-09-27T20:44:24.002886+00:00",
+            "last_seen": "2019-09-29T16:16:35.004191+00:00",
             "state": {
                 "attributes": {
                     "battery_level": 20,
@@ -535,42 +534,6 @@
                 "last_changed": "2019-09-25T20:41:47.774056+00:00",
                 "last_updated": "2019-09-25T20:41:47.774056+00:00",
                 "state": "home"
-            }
-        },
-        {
-            "last_seen": "2019-09-21T19:10:04.362660+00:00",
-            "state": {
-                "attributes": {
-                    "friendly_name": "Porch lights off at 11:15",
-                    "last_triggered": "2019-01-19T04:15:00.013771+00:00"
-                },
-                "context": {
-                    "id": "77b7b7c5949847688a65de663f224edc",
-                    "parent_id": null,
-                    "user_id": null
-                },
-                "entity_id": "automation.porch_lights_off_at_1115",
-                "last_changed": "2019-02-16T16:52:16.968556+00:00",
-                "last_updated": "2019-02-16T16:52:16.968556+00:00",
-                "state": "off"
-            }
-        },
-        {
-            "last_seen": "2019-09-21T19:10:04.362660+00:00",
-            "state": {
-                "attributes": {
-                    "friendly_name": "Porch lights on at 6:15 if home",
-                    "last_triggered": "2019-01-19T11:15:00.004415+00:00"
-                },
-                "context": {
-                    "id": "64b7058afb5346fb8c7c3bff9274d0f2",
-                    "parent_id": null,
-                    "user_id": null
-                },
-                "entity_id": "automation.porch_lights_on_at_615_if_home",
-                "last_changed": "2019-02-16T16:52:16.970226+00:00",
-                "last_updated": "2019-02-16T16:52:16.970226+00:00",
-                "state": "off"
             }
         }
     ],
