@@ -461,7 +461,9 @@
             },
             {
                 "area_id": null,
-                "config_entries": [],
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
                 "connections": [
                     [
                         "mac",
@@ -470,7 +472,7 @@
                 ],
                 "id": "1d801898ecd74435ba20f794cc2c8102",
                 "identifiers": [],
-                "manufacturer": "Ubiquiti",
+                "manufacturer": "Ubiquiti Networks",
                 "model": "UniFi Controller",
                 "name": "UniFi Controller",
                 "name_by_user": null,
@@ -590,6 +592,706 @@
                         "rileigh_pixel"
                     ]
                 ],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "04:4e:af:df:da:07"
+                    ]
+                ],
+                "id": "ca4d50ecab464b22a8f687e729edeb0b",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "90:70:65:d0:d1:36"
+                    ]
+                ],
+                "id": "d60fa18d3708493cba1add1d334fc039",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": "11254659493548a79afb4797c252d593",
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "78:8a:20:53:08:e9"
+                    ]
+                ],
+                "id": "df2e431d504546a39290c09beaa205a9",
+                "identifiers": [],
+                "manufacturer": "Ubiquiti Networks",
+                "model": "U7PG2",
+                "name": "Upstairs",
+                "name_by_user": null,
+                "sw_version": "4.0.54.10625",
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "a4:77:33:28:8c:0b"
+                    ]
+                ],
+                "id": "4072d1dbec28444baec08b0f99983ce8",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "b8:27:eb:cb:60:05"
+                    ]
+                ],
+                "id": "b55cb4662aac4c04a5f6eaf3fa20d7ff",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "78:8a:20:47:55:45"
+                    ]
+                ],
+                "id": "fce236bbb1064046b1bd0b2f9ba0e444",
+                "identifiers": [],
+                "manufacturer": "Ubiquiti Networks",
+                "model": "UGW3",
+                "name": "USG",
+                "name_by_user": null,
+                "sw_version": "4.4.44.5213844",
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "00:18:61:32:c4:87"
+                    ]
+                ],
+                "id": "325175f3f1d348168b829879ef5bc5b4",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "a4:77:33:f7:1e:3c"
+                    ]
+                ],
+                "id": "4df0fee9e5024846b74a31f3b8d15177",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "f4:f5:d8:97:79:bc"
+                    ]
+                ],
+                "id": "640a7c2cc00e47818e517d6ca9f81d00",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "78:8a:20:a0:d1:a7"
+                    ]
+                ],
+                "id": "25070582f9874e31bc4a58f034e2f109",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "9c:b6:d0:92:cd:b7"
+                    ]
+                ],
+                "id": "f924666ac5454db68bdc55fe03305130",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "34:7e:5c:74:f7:10"
+                    ]
+                ],
+                "id": "64bed51e26fb46f8ac2af5fff6bdca12",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "50:dc:e7:e6:99:ff"
+                    ]
+                ],
+                "id": "ba980cbffdbb410bb3107a520d6b4f13",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "f4:6d:04:12:86:86"
+                    ]
+                ],
+                "id": "6542732444c441af9cec4bd85599b188",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "fc:ec:da:44:f2:74"
+                    ]
+                ],
+                "id": "26dec1e6d9d141868ae6221adcc9eb79",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "44:61:32:fb:47:46"
+                    ]
+                ],
+                "id": "6f7aa5a418f54e9ba87bd5c18da01cde",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": "9cfc7d592e8d443e906602364e99b7e6",
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "f0:9f:c2:70:1a:0e"
+                    ]
+                ],
+                "id": "3a693da1a5fd4d0aadf6a14875f85c38",
+                "identifiers": [],
+                "manufacturer": "Ubiquiti Networks",
+                "model": "U7PG2",
+                "name": "Downstairs",
+                "name_by_user": null,
+                "sw_version": "4.0.54.10625",
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "a4:8d:3b:cd:16:4b"
+                    ]
+                ],
+                "id": "fde23fa6c7c4438eb2d249a2cbcae096",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "e8:c7:4f:08:33:3e"
+                    ]
+                ],
+                "id": "0079992dac3b42dfb296fc1f268bd53d",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "ac:04:0b:03:30:7c"
+                    ]
+                ],
+                "id": "b413829ba19849df8e214ee033b97098",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "44:07:0b:4b:82:37"
+                    ]
+                ],
+                "id": "5f5e54d3a8484cce81272a33179dc953",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "a4:77:33:f8:39:ac"
+                    ]
+                ],
+                "id": "8620411f9d6a452291d0a3a7d96eae3c",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "00:14:bf:5f:ac:e1"
+                    ]
+                ],
+                "id": "3a1d38edc4864a0c81015a8a027a8021",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "00:04:20:f9:7f:e3"
+                    ]
+                ],
+                "id": "cb771e3dc6364c43b5a598f303b1d8b1",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "08:02:8e:2a:c0:22"
+                    ]
+                ],
+                "id": "289b98bdfae64cec991c89749ab61923",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "88:71:e5:7c:c3:db"
+                    ]
+                ],
+                "id": "4804714a75d247bba8301025f6fa3171",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "28:6c:07:11:1a:0f"
+                    ]
+                ],
+                "id": "9b25a2d8a7a14b8683196bce66299a49",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "0c:c4:7a:69:69:36"
+                    ]
+                ],
+                "id": "86b405b667a44f13bad18c83c7763530",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "3c:28:6d:31:4a:52"
+                    ]
+                ],
+                "id": "d6ed6b390d504bee9af1c84e06d8f6ea",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "80:2a:a8:e0:47:d0"
+                    ]
+                ],
+                "id": "aee89a6c3ddd4487942e371c667a15af",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "ac:37:43:de:05:fc"
+                    ]
+                ],
+                "id": "42f30d17e0c6481884c7a9d0426eab39",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "80:2a:a8:e0:47:f4"
+                    ]
+                ],
+                "id": "026f18c1e7874074bd52fe82e1f18b1e",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "7c:04:d0:46:2d:9c"
+                    ]
+                ],
+                "id": "64b5a7487c0e41dd85df3c90a80275ff",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "00:bb:3a:37:99:e8"
+                    ]
+                ],
+                "id": "5d921b90cc4947e29d697e8f3d1e8589",
+                "identifiers": [],
+                "manufacturer": null,
+                "model": null,
+                "name": null,
+                "name_by_user": null,
+                "sw_version": null,
+                "via_device_id": null
+            },
+            {
+                "area_id": null,
+                "config_entries": [
+                    "1c4ce640b0b946c1a69f8744d59b6a62"
+                ],
+                "connections": [
+                    [
+                        "mac",
+                        "f4:f5:d8:b5:b2:8e"
+                    ]
+                ],
+                "id": "8ec2047945d54c2f842e87b19a96247a",
+                "identifiers": [],
                 "manufacturer": null,
                 "model": null,
                 "name": null,

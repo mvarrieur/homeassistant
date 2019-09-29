@@ -1,108 +1,61 @@
 {
     "data": [
         {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "House Guests",
                     "icon": "mdi:home-account"
                 },
                 "context": {
-                    "id": "baf1e93d0c46435e878181aace87aebc",
+                    "id": "da533a48e59445299d338da4f55589cd",
                     "parent_id": null,
                     "user_id": null
                 },
                 "entity_id": "input_boolean.house_guests",
-                "last_changed": "2019-09-25T20:41:39.193408+00:00",
-                "last_updated": "2019-09-25T20:41:39.193408+00:00",
+                "last_changed": "2019-09-29T16:45:27.362454+00:00",
+                "last_updated": "2019-09-29T16:45:27.362454+00:00",
                 "state": "off"
             }
         },
         {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Pushover Notifications",
                     "icon": "mdi:email"
                 },
                 "context": {
-                    "id": "76641cb0a1954dcb8af2d913de581953",
+                    "id": "59f71aea123842649993fd5dd2ead36a",
                     "parent_id": null,
                     "user_id": null
                 },
                 "entity_id": "input_boolean.pushover_notifications",
-                "last_changed": "2019-09-25T20:41:39.193679+00:00",
-                "last_updated": "2019-09-25T20:41:39.193679+00:00",
+                "last_changed": "2019-09-29T16:45:27.362561+00:00",
+                "last_updated": "2019-09-29T16:45:27.362561+00:00",
                 "state": "on"
             }
         },
         {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Vacation Mode",
                     "icon": "mdi:airplane"
                 },
                 "context": {
-                    "id": "bb3953e3cafe4563970146f67f9e9374",
+                    "id": "1e32908892084d63be0322456993962f",
                     "parent_id": null,
                     "user_id": null
                 },
                 "entity_id": "input_boolean.vacation_mode",
-                "last_changed": "2019-09-25T20:41:39.193852+00:00",
-                "last_updated": "2019-09-25T20:41:39.193852+00:00",
+                "last_changed": "2019-09-29T16:45:27.362657+00:00",
+                "last_updated": "2019-09-29T16:45:27.362657+00:00",
                 "state": "off"
             }
         },
         {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
-            "state": {
-                "attributes": {
-                    "editable": false,
-                    "friendly_name": "Mike",
-                    "gps_accuracy": 400.0,
-                    "id": "mike0424",
-                    "latitude": 42.027209,
-                    "longitude": -71.166761,
-                    "source": "device_tracker.mike_pixel3",
-                    "user_id": "ea9fbf36f2824a3f9dc22d59536ce843"
-                },
-                "context": {
-                    "id": "c132a894aac946f8a8fd33d2236c44b1",
-                    "parent_id": null,
-                    "user_id": null
-                },
-                "entity_id": "person.mike",
-                "last_changed": "2019-09-29T14:09:32.119202+00:00",
-                "last_updated": "2019-09-29T14:09:32.119202+00:00",
-                "state": "home"
-            }
-        },
-        {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
-            "state": {
-                "attributes": {
-                    "editable": true,
-                    "friendly_name": "Christine",
-                    "gps_accuracy": 10,
-                    "id": "480f3fc2c3834bd98d80f6b3d61c0347",
-                    "latitude": 42.027351837644375,
-                    "longitude": -71.16712974391055,
-                    "source": "device_tracker.christine_christine"
-                },
-                "context": {
-                    "id": "9daf23f2cf7e41e0a0dfc253a05abc32",
-                    "parent_id": null,
-                    "user_id": null
-                },
-                "entity_id": "person.christine",
-                "last_changed": "2019-09-28T18:38:49.226258+00:00",
-                "last_updated": "2019-09-29T12:09:29.547472+00:00",
-                "state": "home"
-            }
-        },
-        {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
             "state": {
                 "attributes": {
                     "editable": true,
@@ -111,385 +64,404 @@
                     "id": "06f639e200e64abbac83e0a255c93354",
                     "latitude": 42.0273991,
                     "longitude": -71.1668156,
-                    "source": "device_tracker.rileigh_pixel"
+                    "source": "person.rileigh"
                 },
                 "context": {
-                    "id": "5a60aaf38e394c3aa3056e4eb8ace7ea",
+                    "id": "28e4f83ec16e4f8581f66dfd417b3d06",
                     "parent_id": null,
                     "user_id": null
                 },
                 "entity_id": "person.rileigh",
-                "last_changed": "2019-09-25T20:41:39.216003+00:00",
-                "last_updated": "2019-09-25T20:41:50.620226+00:00",
+                "last_changed": "2019-09-29T16:45:27.362774+00:00",
+                "last_updated": "2019-09-29T16:45:27.362774+00:00",
                 "state": "home"
             }
         },
         {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
             "state": {
                 "attributes": {
-                    "friendly_name": "Porch lights on at 6:15 if home",
-                    "last_triggered": "2019-09-29T10:15:00.028381+00:00"
+                    "editable": true,
+                    "friendly_name": "Mike",
+                    "id": "05d0d64bf4a64b949ffb5403628b462f",
+                    "source": "person.mike_2",
+                    "user_id": "ea9fbf36f2824a3f9dc22d59536ce843"
                 },
                 "context": {
-                    "id": "7d1cfb038ed84daeaa503dcbefc64b65",
+                    "id": "2fe9ceea9e3149c0a619c5e7c42a52ed",
                     "parent_id": null,
                     "user_id": null
                 },
-                "entity_id": "automation.porch_lights_on_at_6_15_if_home",
-                "last_changed": "2019-09-25T20:41:39.482487+00:00",
-                "last_updated": "2019-09-29T10:15:00.028608+00:00",
-                "state": "on"
+                "entity_id": "person.mike_2",
+                "last_changed": "2019-09-29T16:45:27.362877+00:00",
+                "last_updated": "2019-09-29T16:45:27.362877+00:00",
+                "state": "home"
             }
         },
         {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
             "state": {
                 "attributes": {
-                    "friendly_name": "Attic Flood Detected",
-                    "last_triggered": null
+                    "editable": true,
+                    "friendly_name": "Christine",
+                    "id": "480f3fc2c3834bd98d80f6b3d61c0347",
+                    "source": "person.christine"
                 },
                 "context": {
-                    "id": "e875aa1d552942fe89197c005da19e95",
+                    "id": "bef17c7ab749433fa382b7609af6f0d4",
                     "parent_id": null,
                     "user_id": null
                 },
-                "entity_id": "automation.attic_flood_detected",
-                "last_changed": "2019-09-25T20:41:39.482718+00:00",
-                "last_updated": "2019-09-25T20:41:39.482718+00:00",
-                "state": "off"
+                "entity_id": "person.christine",
+                "last_changed": "2019-09-29T16:45:27.362976+00:00",
+                "last_updated": "2019-09-29T16:45:27.362976+00:00",
+                "state": "home"
             }
         },
         {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
-            "state": {
-                "attributes": {
-                    "friendly_name": "Master Bedroom Play Lights On",
-                    "last_triggered": null
-                },
-                "context": {
-                    "id": "bb6093173e044b96974abe218f8b6892",
-                    "parent_id": null,
-                    "user_id": null
-                },
-                "entity_id": "automation.master_bedroom_play_lights_on",
-                "last_changed": "2019-09-25T20:41:39.482899+00:00",
-                "last_updated": "2019-09-25T20:41:39.482899+00:00",
-                "state": "off"
-            }
-        },
-        {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
-            "state": {
-                "attributes": {
-                    "friendly_name": "Porch lights on at sunset",
-                    "last_triggered": "2019-01-19T12:08:35.009474+00:00"
-                },
-                "context": {
-                    "id": "e755592eb44b4b69913b314f782f7798",
-                    "parent_id": null,
-                    "user_id": null
-                },
-                "entity_id": "automation.porch_lights_on_at_sunset",
-                "last_changed": "2019-09-25T20:41:39.483221+00:00",
-                "last_updated": "2019-09-25T20:41:39.483221+00:00",
-                "state": "off"
-            }
-        },
-        {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
-            "state": {
-                "attributes": {
-                    "friendly_name": "Family Room Double Tap Off",
-                    "last_triggered": "2019-01-19T17:21:59.091152+00:00"
-                },
-                "context": {
-                    "id": "f418ec53c4f4418f81580306a036dd6b",
-                    "parent_id": null,
-                    "user_id": null
-                },
-                "entity_id": "automation.family_room_double_tap_off",
-                "last_changed": "2019-09-25T20:41:39.483406+00:00",
-                "last_updated": "2019-09-25T20:41:39.483406+00:00",
-                "state": "off"
-            }
-        },
-        {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
-            "state": {
-                "attributes": {
-                    "friendly_name": "Master Bedroom Media Pause Lights",
-                    "last_triggered": null
-                },
-                "context": {
-                    "id": "465e8b711ff44da29e5514d132bd5de8",
-                    "parent_id": null,
-                    "user_id": null
-                },
-                "entity_id": "automation.master_bedroom_media_pause_lights",
-                "last_changed": "2019-09-25T20:41:39.483629+00:00",
-                "last_updated": "2019-09-25T20:41:39.483629+00:00",
-                "state": "off"
-            }
-        },
-        {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
-            "state": {
-                "attributes": {
-                    "friendly_name": "Basement Flood Detected",
-                    "last_triggered": null
-                },
-                "context": {
-                    "id": "bfdd0ba313a4465395ac14628ce28d8a",
-                    "parent_id": null,
-                    "user_id": null
-                },
-                "entity_id": "automation.basement_flood_detected",
-                "last_changed": "2019-09-25T20:41:39.483845+00:00",
-                "last_updated": "2019-09-25T20:41:39.483845+00:00",
-                "state": "off"
-            }
-        },
-        {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
-            "state": {
-                "attributes": {
-                    "friendly_name": "Christine Arriving Home",
-                    "last_triggered": "2019-01-05T20:02:44.509237+00:00"
-                },
-                "context": {
-                    "id": "468d2aa382bd4ebdb4ddbf1c7416c714",
-                    "parent_id": null,
-                    "user_id": null
-                },
-                "entity_id": "automation.christine_arriving_home",
-                "last_changed": "2019-09-25T20:41:39.484082+00:00",
-                "last_updated": "2019-09-25T20:41:39.484082+00:00",
-                "state": "off"
-            }
-        },
-        {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
-            "state": {
-                "attributes": {
-                    "friendly_name": "Everyone left home",
-                    "last_triggered": "2019-01-04T19:36:31.257013+00:00"
-                },
-                "context": {
-                    "id": "c27ab2a8b4e14d61abc9c4f5eceb5ea4",
-                    "parent_id": null,
-                    "user_id": null
-                },
-                "entity_id": "automation.everyone_left_home",
-                "last_changed": "2019-09-25T20:41:39.484269+00:00",
-                "last_updated": "2019-09-25T20:41:39.484269+00:00",
-                "state": "off"
-            }
-        },
-        {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
-            "state": {
-                "attributes": {
-                    "friendly_name": "Family Room - Playing Audio",
-                    "last_triggered": null
-                },
-                "context": {
-                    "id": "3c4e498dc0034418802ba57c1da063d7",
-                    "parent_id": null,
-                    "user_id": null
-                },
-                "entity_id": "automation.family_room_playing_audio",
-                "last_changed": "2019-09-25T20:41:39.484421+00:00",
-                "last_updated": "2019-09-25T20:41:39.484421+00:00",
-                "state": "on"
-            }
-        },
-        {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
-            "state": {
-                "attributes": {
-                    "friendly_name": "Family Room Double Tap On",
-                    "last_triggered": "2019-01-19T17:22:14.300347+00:00"
-                },
-                "context": {
-                    "id": "60b10b2702d04723b3fc5e552dcbf896",
-                    "parent_id": null,
-                    "user_id": null
-                },
-                "entity_id": "automation.family_room_double_tap_on",
-                "last_changed": "2019-09-25T20:41:39.484600+00:00",
-                "last_updated": "2019-09-25T20:41:39.484600+00:00",
-                "state": "off"
-            }
-        },
-        {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
-            "state": {
-                "attributes": {
-                    "friendly_name": "Family Room - Audio End",
-                    "last_triggered": null
-                },
-                "context": {
-                    "id": "c86a8f35e7284b719169431e1da44925",
-                    "parent_id": null,
-                    "user_id": null
-                },
-                "entity_id": "automation.family_room_audio_end",
-                "last_changed": "2019-09-25T20:41:39.484750+00:00",
-                "last_updated": "2019-09-25T20:41:39.484750+00:00",
-                "state": "on"
-            }
-        },
-        {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
-            "state": {
-                "attributes": {
-                    "friendly_name": "Backyard Audio Start",
-                    "last_triggered": null
-                },
-                "context": {
-                    "id": "95b3744576534a9b94d3e4dca8bbbabb",
-                    "parent_id": null,
-                    "user_id": null
-                },
-                "entity_id": "automation.backyard_audio_start",
-                "last_changed": "2019-09-25T20:41:39.484905+00:00",
-                "last_updated": "2019-09-25T20:41:39.484905+00:00",
-                "state": "on"
-            }
-        },
-        {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Lights off when media done",
                     "last_triggered": null
                 },
                 "context": {
-                    "id": "f5ba2f448e174dc78e902b112f9ffe7b",
+                    "id": "76e3f705c20b4338ac933466abc1a250",
                     "parent_id": null,
                     "user_id": null
                 },
                 "entity_id": "automation.lights_off_when_media_done",
-                "last_changed": "2019-09-25T20:41:39.485091+00:00",
-                "last_updated": "2019-09-25T20:41:39.485091+00:00",
+                "last_changed": "2019-09-29T16:45:27.610859+00:00",
+                "last_updated": "2019-09-29T16:45:27.610859+00:00",
                 "state": "off"
             }
         },
         {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
             "state": {
                 "attributes": {
-                    "friendly_name": "Porch lights on if front door opens at night",
-                    "last_triggered": "2019-01-18T11:48:16.876939+00:00"
+                    "friendly_name": "Attic Flood Detected",
+                    "last_triggered": null
                 },
                 "context": {
-                    "id": "0af9beefc01a40798fdd41d6ead3f712",
+                    "id": "1006537fe4c648db99bfb924aaa7ab10",
                     "parent_id": null,
                     "user_id": null
                 },
-                "entity_id": "automation.porch_lights_on_if_front_door_opens_at_night",
-                "last_changed": "2019-09-25T20:41:39.485274+00:00",
-                "last_updated": "2019-09-25T20:41:39.485274+00:00",
+                "entity_id": "automation.attic_flood_detected",
+                "last_changed": "2019-09-29T16:45:27.610999+00:00",
+                "last_updated": "2019-09-29T16:45:27.610999+00:00",
                 "state": "off"
             }
         },
         {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Backyard Audio Start",
                     "last_triggered": null
                 },
                 "context": {
-                    "id": "7685cabffa1d481b95de2815ff1c58a3",
+                    "id": "1e3595525e8747cdad26f02566d20b40",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.backyard_audio_start",
+                "last_changed": "2019-09-29T16:45:27.611145+00:00",
+                "last_updated": "2019-09-29T16:45:27.611145+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Basement Flood Detected",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "3ae3c7d0066c4644a8a457350626f92a",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.basement_flood_detected",
+                "last_changed": "2019-09-29T16:45:27.611291+00:00",
+                "last_updated": "2019-09-29T16:45:27.611291+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Backyard Audio Start",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "0211c71ad9d34ffcaef6e68c50f96ba9",
                     "parent_id": null,
                     "user_id": null
                 },
                 "entity_id": "automation.backyard_audio_start_2",
-                "last_changed": "2019-09-25T20:41:39.485438+00:00",
-                "last_updated": "2019-09-25T20:41:39.485438+00:00",
+                "last_changed": "2019-09-29T16:45:27.611432+00:00",
+                "last_updated": "2019-09-29T16:45:27.611432+00:00",
                 "state": "on"
             }
         },
         {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
             "state": {
                 "attributes": {
-                    "friendly_name": "Porch lights off at 11:15",
-                    "last_triggered": "2019-09-29T03:15:00.004385+00:00"
+                    "friendly_name": "Christine Arriving Home",
+                    "last_triggered": "2019-01-05T20:02:44.509237+00:00"
                 },
                 "context": {
-                    "id": "deb4c30a452147fda5b18a7622dad456",
+                    "id": "99f73dcc4e714146955a34cb11e14ee3",
                     "parent_id": null,
                     "user_id": null
                 },
-                "entity_id": "automation.porch_lights_off_at_11_15",
-                "last_changed": "2019-09-25T20:41:39.486435+00:00",
-                "last_updated": "2019-09-29T03:15:00.004474+00:00",
+                "entity_id": "automation.christine_arriving_home",
+                "last_changed": "2019-09-29T16:45:27.611661+00:00",
+                "last_updated": "2019-09-29T16:45:27.611661+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Family Room - Playing Audio",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "b18e2d28518743cd8f3ef11ad10b3b5c",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.family_room_playing_audio",
+                "last_changed": "2019-09-29T16:45:27.611805+00:00",
+                "last_updated": "2019-09-29T16:45:27.611805+00:00",
                 "state": "on"
             }
         },
         {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Everyone left home",
+                    "last_triggered": "2019-01-04T19:36:31.257013+00:00"
+                },
+                "context": {
+                    "id": "1fb27a743a094d1da875539bfb72a179",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.everyone_left_home",
+                "last_changed": "2019-09-29T16:45:27.611969+00:00",
+                "last_updated": "2019-09-29T16:45:27.611969+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Family Room - Audio End",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "9fa36bda9588434eb1d6755066b23b5c",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.family_room_audio_end",
+                "last_changed": "2019-09-29T16:45:27.612108+00:00",
+                "last_updated": "2019-09-29T16:45:27.612108+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Family Room Double Tap Off",
+                    "last_triggered": "2019-01-19T17:21:59.091152+00:00"
+                },
+                "context": {
+                    "id": "1be5911337c1410091100f5a467e6519",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.family_room_double_tap_off",
+                "last_changed": "2019-09-29T16:45:27.612271+00:00",
+                "last_updated": "2019-09-29T16:45:27.612271+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Family Room Double Tap On",
+                    "last_triggered": "2019-01-19T17:22:14.300347+00:00"
+                },
+                "context": {
+                    "id": "82fe872d478f42dfbe1cd9228a9cc1dc",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.family_room_double_tap_on",
+                "last_changed": "2019-09-29T16:45:27.612424+00:00",
+                "last_updated": "2019-09-29T16:45:27.612424+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Mike Arriving Home",
                     "last_triggered": "2019-01-05T15:44:15.551720+00:00"
                 },
                 "context": {
-                    "id": "03e54b51f2674d4cbf46a0524884b2df",
+                    "id": "757b73faf08c4839a0c54a11c79cffff",
                     "parent_id": null,
                     "user_id": null
                 },
                 "entity_id": "automation.mike_arriving_home",
-                "last_changed": "2019-09-25T20:41:39.486614+00:00",
-                "last_updated": "2019-09-25T20:41:39.486614+00:00",
+                "last_changed": "2019-09-29T16:45:27.612572+00:00",
+                "last_updated": "2019-09-29T16:45:27.612572+00:00",
                 "state": "off"
             }
         },
         {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Porch lights off at 11:15",
+                    "last_triggered": "2019-09-29T03:15:00.004385+00:00"
+                },
+                "context": {
+                    "id": "cca0aac67c1047a684892a65852e8480",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.porch_lights_off_at_11_15",
+                "last_changed": "2019-09-29T16:45:27.612730+00:00",
+                "last_updated": "2019-09-29T16:45:27.612730+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Porch lights on if front door opens at night",
+                    "last_triggered": "2019-01-18T11:48:16.876939+00:00"
+                },
+                "context": {
+                    "id": "50c8cfa0befa4d649dd5636a982af070",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.porch_lights_on_if_front_door_opens_at_night",
+                "last_changed": "2019-09-29T16:45:27.612900+00:00",
+                "last_updated": "2019-09-29T16:45:27.612900+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Porch lights on at 6:15 if home",
+                    "last_triggered": "2019-09-29T10:15:00.028381+00:00"
+                },
+                "context": {
+                    "id": "ae29acc86d8443f1892c7e322bc6562b",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.porch_lights_on_at_6_15_if_home",
+                "last_changed": "2019-09-29T16:45:27.613088+00:00",
+                "last_updated": "2019-09-29T16:45:27.613088+00:00",
+                "state": "on"
+            }
+        },
+        {
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Porch lights on at sunset",
+                    "last_triggered": "2019-01-19T12:08:35.009474+00:00"
+                },
+                "context": {
+                    "id": "fab6604a0dfb4327ba2d3fdf8aff42d0",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.porch_lights_on_at_sunset",
+                "last_changed": "2019-09-29T16:45:27.613252+00:00",
+                "last_updated": "2019-09-29T16:45:27.613252+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
             "state": {
                 "attributes": {
                     "friendly_name": "Porch lights on after sunset",
                     "last_triggered": "2019-01-17T21:24:20.009376+00:00"
                 },
                 "context": {
-                    "id": "73d3d188ef0b499f83a7d84c2ac97c9e",
+                    "id": "d32769e615454b71890f22176a752b6a",
                     "parent_id": null,
                     "user_id": null
                 },
                 "entity_id": "automation.porch_lights_on_after_sunset",
-                "last_changed": "2019-09-25T20:41:39.486778+00:00",
-                "last_updated": "2019-09-25T20:41:39.486778+00:00",
+                "last_changed": "2019-09-29T16:45:27.613405+00:00",
+                "last_updated": "2019-09-29T16:45:27.613405+00:00",
                 "state": "off"
             }
         },
         {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
             "state": {
                 "attributes": {
-                    "friendly_name": "mike",
-                    "gps_accuracy": 400.0,
-                    "latitude": 42.027209,
-                    "longitude": -71.166761,
-                    "source_type": "gps",
-                    "tid": "mv"
+                    "friendly_name": "Master Bedroom Media Pause Lights",
+                    "last_triggered": null
                 },
                 "context": {
-                    "id": "3540f0aed61a45758e24c07fed34a8c1",
+                    "id": "c90c64cab482420dbec41f5a2df7fa51",
                     "parent_id": null,
                     "user_id": null
                 },
-                "entity_id": "device_tracker.mike_pixel3",
-                "last_changed": "2019-09-29T14:09:32.117521+00:00",
-                "last_updated": "2019-09-29T14:09:32.117521+00:00",
-                "state": "home"
+                "entity_id": "automation.master_bedroom_media_pause_lights",
+                "last_changed": "2019-09-29T16:45:27.613543+00:00",
+                "last_updated": "2019-09-29T16:45:27.613543+00:00",
+                "state": "off"
             }
         },
         {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
+            "state": {
+                "attributes": {
+                    "friendly_name": "Master Bedroom Play Lights On",
+                    "last_triggered": null
+                },
+                "context": {
+                    "id": "c82c5025d86c4de2ae4c857fde648837",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "automation.master_bedroom_play_lights_on",
+                "last_changed": "2019-09-29T16:45:27.613740+00:00",
+                "last_updated": "2019-09-29T16:45:27.613740+00:00",
+                "state": "off"
+            }
+        },
+        {
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
             "state": {
                 "attributes": {
                     "battery_level": 100,
@@ -502,18 +474,42 @@
                     "velocity": 0
                 },
                 "context": {
-                    "id": "814a486edc0e4b4aa9dffc4502da1647",
+                    "id": "58909d4ffbae4fb0904dfb52b42eef1b",
                     "parent_id": null,
                     "user_id": null
                 },
                 "entity_id": "device_tracker.christine_christine",
-                "last_changed": "2019-09-28T18:38:49.224371+00:00",
-                "last_updated": "2019-09-29T12:09:29.543193+00:00",
+                "last_changed": "2019-09-29T16:45:28.856407+00:00",
+                "last_updated": "2019-09-29T16:45:28.880372+00:00",
                 "state": "home"
             }
         },
         {
-            "last_seen": "2019-09-29T16:16:35.004191+00:00",
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
+            "state": {
+                "attributes": {
+                    "battery_level": 87,
+                    "friendly_name": "mike",
+                    "gps_accuracy": 15,
+                    "latitude": 42.027397,
+                    "longitude": -71.1668576,
+                    "source_type": "gps",
+                    "tid": "mv",
+                    "velocity": 0
+                },
+                "context": {
+                    "id": "e16594a6e2fa489badd693c3f1e35bdd",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "device_tracker.mike_pixel3",
+                "last_changed": "2019-09-29T16:45:28.856730+00:00",
+                "last_updated": "2019-09-29T16:45:28.880009+00:00",
+                "state": "home"
+            }
+        },
+        {
+            "last_seen": "2019-09-29T16:45:31.132791+00:00",
             "state": {
                 "attributes": {
                     "battery_level": 20,
@@ -526,13 +522,37 @@
                     "velocity": 0
                 },
                 "context": {
-                    "id": "c2237d2e729b4cba86cbcc5b09ebbd9a",
+                    "id": "d4f45e1b82a24dd7bbd8b098f94e36eb",
                     "parent_id": null,
                     "user_id": null
                 },
                 "entity_id": "device_tracker.rileigh_pixel",
-                "last_changed": "2019-09-25T20:41:47.774056+00:00",
-                "last_updated": "2019-09-25T20:41:47.774056+00:00",
+                "last_changed": "2019-09-29T16:45:28.857133+00:00",
+                "last_updated": "2019-09-29T16:45:28.880699+00:00",
+                "state": "home"
+            }
+        },
+        {
+            "last_seen": "2019-09-29T16:35:12.833827+00:00",
+            "state": {
+                "attributes": {
+                    "editable": false,
+                    "friendly_name": "Mike",
+                    "gps_accuracy": 15,
+                    "id": "mike0424",
+                    "latitude": 42.027397,
+                    "longitude": -71.1668576,
+                    "source": "device_tracker.mike_pixel3",
+                    "user_id": "ea9fbf36f2824a3f9dc22d59536ce843"
+                },
+                "context": {
+                    "id": "7574829cd77d40e78df12b071f3fdfdd",
+                    "parent_id": null,
+                    "user_id": null
+                },
+                "entity_id": "person.mike",
+                "last_changed": "2019-09-29T16:29:54.059808+00:00",
+                "last_updated": "2019-09-29T16:29:57.795805+00:00",
                 "state": "home"
             }
         }

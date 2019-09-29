@@ -25,9 +25,9 @@ emulated_hue:
 
 lutron_caseta:
   host: 192.168.1.245
-  keyfile: caseta.key
-  certfile: caseta.crt
-  ca_certs: caseta-bridge.crt
+  keyfile: certs/caseta.key
+  certfile: certs/caseta.crt
+  ca_certs: certs/caseta-bridge.crt
 
 http:
   base_url: 192.168.1.181:8123
@@ -59,8 +59,9 @@ sun:
 ffmpeg:
 map:
 system_health:
+person:
+# person: !include_dir_merge_list person/
 
-person: !include_dir_merge_list person/
 zwave: !include zwave.yaml
 sensor: !include_dir_merge_list sensors/
 mqtt: !include mqtt.yaml

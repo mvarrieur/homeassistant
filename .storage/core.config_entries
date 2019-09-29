@@ -60,6 +60,34 @@
                 },
                 "title": "OwnTracks",
                 "version": 1
+            },
+            {
+                "connection_class": "local_poll",
+                "data": {
+                    "controller": {
+                        "host": "192.168.1.239",
+                        "password": "Rileigh11",
+                        "port": 8443,
+                        "site": "default",
+                        "username": "ubnt",
+                        "verify_ssl": false
+                    }
+                },
+                "domain": "unifi",
+                "entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "options": {
+                    "block_client": [],
+                    "ssid_filter": [
+                        "voxine",
+                        "voxine-2.4"
+                    ]
+                },
+                "source": "user",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "Default",
+                "version": 1
             }
         ]
     },

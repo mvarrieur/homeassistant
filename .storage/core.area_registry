@@ -1,0 +1,16 @@
+{
+    "data": {
+        "areas": [
+            {
+                "id": "11254659493548a79afb4797c252d593",
+                "name": "Upstairs"
+            },
+            {
+                "id": "9cfc7d592e8d443e906602364e99b7e6",
+                "name": "Downstairs"
+            }
+        ]
+    },
+    "key": "core.area_registry",
+    "version": 1
+}

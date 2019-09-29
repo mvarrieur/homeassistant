@@ -531,6 +531,339 @@
                 "name": null,
                 "platform": "person",
                 "unique_id": "06f639e200e64abbac83e0a255c93354"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "ca4d50ecab464b22a8f687e729edeb0b",
+                "disabled_by": null,
+                "entity_id": "device_tracker.tesla_model_3",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "04:4e:af:df:da:07-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "d60fa18d3708493cba1add1d334fc039",
+                "disabled_by": null,
+                "entity_id": "device_tracker.lutron_caseta_hub",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "90:70:65:d0:d1:36-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "df2e431d504546a39290c09beaa205a9",
+                "disabled_by": null,
+                "entity_id": "device_tracker.upstairs",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "78:8a:20:53:08:e9"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "4072d1dbec28444baec08b0f99983ce8",
+                "disabled_by": "integration",
+                "entity_id": "device_tracker.chromecast",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "a4:77:33:28:8c:0b-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "b55cb4662aac4c04a5f6eaf3fa20d7ff",
+                "disabled_by": null,
+                "entity_id": "device_tracker.octopi",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "b8:27:eb:cb:60:05-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "fce236bbb1064046b1bd0b2f9ba0e444",
+                "disabled_by": null,
+                "entity_id": "device_tracker.usg",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "78:8a:20:47:55:45"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "325175f3f1d348168b829879ef5bc5b4",
+                "disabled_by": null,
+                "entity_id": "device_tracker.unifi_00_18_61_32_c4_87_default",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "00:18:61:32:c4:87-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "4df0fee9e5024846b74a31f3b8d15177",
+                "disabled_by": "integration",
+                "entity_id": "device_tracker.chromecast_audio",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "a4:77:33:f7:1e:3c-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "640a7c2cc00e47818e517d6ca9f81d00",
+                "disabled_by": "integration",
+                "entity_id": "device_tracker.chromecast_2",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "f4:f5:d8:97:79:bc-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "25070582f9874e31bc4a58f034e2f109",
+                "disabled_by": null,
+                "entity_id": "device_tracker.airgateway3_lr",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "78:8a:20:a0:d1:a7-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "f924666ac5454db68bdc55fe03305130",
+                "disabled_by": null,
+                "entity_id": "device_tracker.mike_xps_13_9370",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "9c:b6:d0:92:cd:b7-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "64bed51e26fb46f8ac2af5fff6bdca12",
+                "disabled_by": null,
+                "entity_id": "device_tracker.sonoszp",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "34:7e:5c:74:f7:10-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "ba980cbffdbb410bb3107a520d6b4f13",
+                "disabled_by": null,
+                "entity_id": "device_tracker.amazon_4b1a14df8",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "50:dc:e7:e6:99:ff-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "6542732444c441af9cec4bd85599b188",
+                "disabled_by": null,
+                "entity_id": "device_tracker.freenas",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "f4:6d:04:12:86:86-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "26dec1e6d9d141868ae6221adcc9eb79",
+                "disabled_by": null,
+                "entity_id": "device_tracker.unifi_nvr",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "fc:ec:da:44:f2:74-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "6f7aa5a418f54e9ba87bd5c18da01cde",
+                "disabled_by": null,
+                "entity_id": "device_tracker.unifi_44_61_32_fb_47_46_default",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "44:61:32:fb:47:46-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "3a693da1a5fd4d0aadf6a14875f85c38",
+                "disabled_by": null,
+                "entity_id": "device_tracker.downstairs",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "f0:9f:c2:70:1a:0e"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "fde23fa6c7c4438eb2d249a2cbcae096",
+                "disabled_by": "integration",
+                "entity_id": "device_tracker.family_room_tv",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "a4:8d:3b:cd:16:4b-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "0079992dac3b42dfb296fc1f268bd53d",
+                "disabled_by": null,
+                "entity_id": "device_tracker.swo_wsp1pa_us",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "e8:c7:4f:08:33:3e-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "b413829ba19849df8e214ee033b97098",
+                "disabled_by": null,
+                "entity_id": "device_tracker.android_b3a3de10fe456d9e",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "ac:04:0b:03:30:7c-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "5f5e54d3a8484cce81272a33179dc953",
+                "disabled_by": "integration",
+                "entity_id": "device_tracker.google_home_mini",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "44:07:0b:4b:82:37-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "8620411f9d6a452291d0a3a7d96eae3c",
+                "disabled_by": "integration",
+                "entity_id": "device_tracker.chromecast_audio_2",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "a4:77:33:f8:39:ac-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "3a1d38edc4864a0c81015a8a027a8021",
+                "disabled_by": null,
+                "entity_id": "device_tracker.unifi_00_14_bf_5f_ac_e1_default",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "00:14:bf:5f:ac:e1-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "cb771e3dc6364c43b5a598f303b1d8b1",
+                "disabled_by": null,
+                "entity_id": "device_tracker.harmonyhub",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "00:04:20:f9:7f:e3-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "289b98bdfae64cec991c89749ab61923",
+                "disabled_by": "integration",
+                "entity_id": "device_tracker.arlo_babycam",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "08:02:8e:2a:c0:22-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "4804714a75d247bba8301025f6fa3171",
+                "disabled_by": null,
+                "entity_id": "device_tracker.amazon_57f96546b",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "88:71:e5:7c:c3:db-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "9b25a2d8a7a14b8683196bce66299a49",
+                "disabled_by": null,
+                "entity_id": "device_tracker.yeelink_light_color1_miio482565",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "28:6c:07:11:1a:0f-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "86b405b667a44f13bad18c83c7763530",
+                "disabled_by": null,
+                "entity_id": "device_tracker.docker_server",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "0c:c4:7a:69:69:36-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "d6ed6b390d504bee9af1c84e06d8f6ea",
+                "disabled_by": null,
+                "entity_id": "device_tracker.unifi_3c_28_6d_31_4a_52_default",
+                "name": "Mike Pixel Wifi",
+                "platform": "unifi",
+                "unique_id": "3c:28:6d:31:4a:52-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "aee89a6c3ddd4487942e371c667a15af",
+                "disabled_by": null,
+                "entity_id": "device_tracker.uvc_g3_b5f6",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "80:2a:a8:e0:47:d0-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "42f30d17e0c6481884c7a9d0426eab39",
+                "disabled_by": null,
+                "entity_id": "device_tracker.unifi_ac_37_43_de_05_fc_default",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "ac:37:43:de:05:fc-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "026f18c1e7874074bd52fe82e1f18b1e",
+                "disabled_by": null,
+                "entity_id": "device_tracker.uvc_g3_7cac",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "80:2a:a8:e0:47:f4-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "64b5a7487c0e41dd85df3c90a80275ff",
+                "disabled_by": null,
+                "entity_id": "device_tracker.christiesiphone",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "7c:04:d0:46:2d:9c-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "5d921b90cc4947e29d697e8f3d1e8589",
+                "disabled_by": null,
+                "entity_id": "device_tracker.amazon_fefc96e3e",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "00:bb:3a:37:99:e8-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "1d801898ecd74435ba20f794cc2c8102",
+                "disabled_by": null,
+                "entity_id": "device_tracker.unifi_fc_ec_da_d0_d4_bd_default",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "fc:ec:da:d0:d4:bd-default"
+            },
+            {
+                "config_entry_id": "1c4ce640b0b946c1a69f8744d59b6a62",
+                "device_id": "8ec2047945d54c2f842e87b19a96247a",
+                "disabled_by": "integration",
+                "entity_id": "device_tracker.google_home",
+                "name": null,
+                "platform": "unifi",
+                "unique_id": "f4:f5:d8:b5:b2:8e-default"
+            },
+            {
+                "config_entry_id": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "person.mike_2",
+                "name": null,
+                "platform": "person",
+                "unique_id": "05d0d64bf4a64b949ffb5403628b462f"
             }
         ]
     },
