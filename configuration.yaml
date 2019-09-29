@@ -40,6 +40,14 @@ tts:
     cache_dir: /scratch
     time_memory: 57600
 
+unifi:
+  controllers:
+    - host: 192.168.1.239
+      site: Default
+      ssid_filter:
+        - 'voxine'
+        - 'voxine-2.4'
+
 frontend:
 config:
 updater:
